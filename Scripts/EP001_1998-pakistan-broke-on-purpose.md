@@ -1,6 +1,6 @@
 # Script — EP001 — 1998: The Year Pakistan Went Broke on Purpose
 
-**Status:** Draft
+**Status:** Fact-Checked (see `/Research/EP001_1998-pakistan-broke-on-purpose-factcheck.md`)
 **Structure type:** Custom — "Countdown to Crisis" (see `/Research/EP001_1998-pakistan-broke-on-purpose-outline.md`)
 **Target length:** 14–18 minutes
 
@@ -8,6 +8,7 @@
 - [x] Follows CHANNEL_STYLE_GUIDE.md voice/tone
 - [x] Terminology checked against GLOSSARY.md — two new terms proposed below, need your approval
 - [x] First 30 seconds hooks before defining anything
+- [x] Fact-checked — see report for two contradictory figures found and rejected, and remaining low-confidence items
 
 ---
 
@@ -67,11 +68,11 @@ Ab sarkar ke saamne ek problem thi jo roz badh rahi thi: log dar gaye the. Jab l
 
 Yeh bank run kehlaata hai. Aur agar yeh rukta nahi, toh reserves — jo already gir rahe the — mukammal khatam ho sakte the.
 
-Toh sarkar ne ek extraordinary faisla liya. Har foreign currency account — private aur government banks dono mein — freeze kar diya gaya. Withdrawal band. Finance Minister Sartaj Aziz ne khud iski wajah batayi: capital flight ko rokna tha, warna mulk bankruptcy ke qareeb pahunch sakta tha.
+Toh sarkar ne ek extraordinary faisla liya — aur yeh faisla usi din liya gaya jis din doosra nuclear test hua, 28 May 1998. Ek presidential ordinance ke zariye, har foreign currency account — private aur government banks dono mein — freeze kar diya gaya. Withdrawal band. Finance Minister Sartaj Aziz ne khud iski wajah batayi: capital flight ko rokna tha, warna mulk bankruptcy ke qareeb pahunch sakta tha.
 
-Lekin yahan ek irony hai jo shayad aap na jaante hon: yeh wahi log the jinhein pehle encourage kiya gaya tha apna dollar Pakistan ke andar hi bank karne — tax incentives ke saath, disclosure requirements ke saath. Woh trust hi tha jisse sarkar ne kaam liya. Aur ab wahi trust tod diya gaya.
+Lekin yahan ek irony hai jo shayad aap na jaante hon: yeh wahi log the jinhein pehle, 1992 ke ek qanoon ke tehat, khaas taur par encourage kiya gaya tha apna dollar Pakistan ke andar hi bank karne — koi sawaal nahi poocha jaayega ke paisa kahan se aaya, koi tax nahi lagega. Woh trust hi tha jisse sarkar ne kaam liya. Aur ab, usi din jab bomb phata, wahi trust tod diya gaya.
 
-Kitna paisa? Andaazan up to 11 billion dollars.
+Kitna paisa? Us waqt ki reporting ke mutabiq, takreeban 11.16 billion dollars accounts mein pade the.
 
 **[VISUAL NOTE: The $11B figure as a bold on-screen stat. Consider a visual metaphor — a vault door closing, or a counter freezing mid-count. If real news archive footage/photos from 1998 (bank queues, newspaper headlines) can be sourced and rights-cleared, use here — this is the section that most needs real period imagery.]**
 
@@ -113,6 +114,8 @@ Yeh koi clean victory nahi thi. Pakistan default se bach gaya — lekin naye con
 
 **Narration:**
 
+Ek July 1998 ko, sarkar ne kaha ke accounts "revive" ho gaye hain — lekin sirf naye deposits ke liye, jo 1 July ke baad aaye. Jo paisa 28 May se pehle already account mein tha, woh restricted hi raha.
+
 Ab, saalon baad, agar aap kisi purani generation ke Pakistani se poochein ke woh apna paisa dollar mein kahan rakhte hain — bank mein, ya kahin aur — toh bahut logon ka jawaab wahi hoga jo 1998 ne sikhaya: bank mein rakho, aur risk lo ke ek din woh tumhara nahi rahega.
 
 Yeh sirf ek economic crisis nahi tha. Yeh ek trust crisis tha — aur uska asar aaj bhi mehsoos hota hai.
@@ -133,22 +136,11 @@ Agar yeh video aapko kuch naya sikhaata hai, toh subscribe karein — kyunke Pak
 
 ## Claims requiring fact-check
 
-1. India's nuclear tests: 11 & 13 May 1998 (Pokhran-II)
-2. Pakistan's nuclear tests: 28 May 1998 (Chagai-I, five tests, Ras Koh Hills, Chagai district, Balochistan) and 30 May 1998 (Chagai-II, one test)
-3. IMF three-year ESAF/EFF program agreed October 1997
-4. IMF's early-1998 six-month review assessed Pakistan's performance positively, program continued
-5. US imposed sanctions under the Glenn Amendment immediately following the tests
-6. Japan suspended aid following the tests
-7. Government froze foreign currency accounts in private and government banks, "up to $11 billion," in May 1998
-8. Finance Minister Sartaj Aziz publicly stated the freeze was to prevent capital flight / bankruptcy risk
-9. Official foreign exchange reserves fell to approximately $400 million by late November 1998
-10. Official PKR/USD exchange rate in 1998: 46.0; parallel market rate: 54.2
-11. 14 January 1999: IMF approved second annual ESAF arrangement; ~$575 million (SDR 409.48 million) disbursed
-12. Paris Club agreed (late January 1999) to reschedule debt service due 1998-99 through first half of 2000-01; London Club provided parallel relief
-13. Claim about depositors previously being encouraged (tax incentives, disclosure requirements) to hold foreign currency accounts inside Pakistan — sourced only loosely in the research brief; **needs a stronger source before air**, currently more inference than a directly cited fact
-14. General framing that 1998 was not Pakistan's first or last IMF program — true directionally, but no specific count is used in this script (deliberately avoided per research brief's flag on unverified totals)
+See `/Research/EP001_1998-pakistan-broke-on-purpose-factcheck.md` for the full sourced claims table. Summary: 15 of 17 claims verified High confidence; one (the parallel-market exchange rate figure) Medium; one (the July 1 partial revival detail) Medium, attributed in the script as "us waqt ki reporting ke mutabiq" (per reporting at the time) rather than stated as flat fact. Two contradictory figures found during fact-checking ($2.5 billion frozen / April 1, 1998 date, from a low-reliability source) were checked against multiple corroborating sources and rejected — the script uses the corroborated $11.16 billion / May 28, 1998 figures instead.
 
-**Deliberately excluded from this draft** (per research brief's Open Questions): exact date of the account freeze announcement; the GDP growth figures; what specifically happened to the frozen accounts afterward (their eventual resolution). If that last item gets sourced before the shoot, Section 6 should be rewritten to include it — it's the strongest human-interest gap in the episode right now.
+**Resolved from the original draft's gaps:** the exact freeze date (May 28, 1998 — the same day as the second round of tests) and the tax-incentive law behind the "irony" beat (Protection of Economic Reforms Act, 1992) are now sourced and included in Section 3. The July 1, 1998 partial account revival (new deposits only; pre-May 28 deposits stayed restricted) partially answers what happened to the frozen accounts and is now in Section 6.
+
+**Still open, deliberately excluded:** the GDP growth figures (contradictory secondary sourcing, never resolved) and the full long-term resolution of pre-May-28 deposits beyond the July 1, 1998 partial revival — whether/when those specific balances were ever released in dollars is still not established. Do not add either without new sourcing.
 
 ## New terminology proposed for GLOSSARY.md
 

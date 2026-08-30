@@ -72,11 +72,16 @@ Not a company-centric episode — no standing `/Companies` file needed. Banks br
 
 ## Open questions / gaps
 
-- **Exact date of the FCA freeze announcement** — sources confirm "May 1998, following the nuclear tests" but not the specific day. Needs a primary/contemporaneous news archive check (e.g. Dawn's own 1998 archive) before the script states a date on screen.
-- **GDP growth figures are unverified** (flagged above) — need PBS or SBP annual report figures for FY1997-98 and FY1998-99 specifically, not calendar-year approximations from a secondary summary.
-- **What ultimately happened to the frozen accounts** — sources describe the freeze and the resulting distrust, but not the resolution mechanism (were depositors eventually paid in rupees, in installments, in dollars, or partially compensated via special bonds?). This is likely the single most important human-interest detail for the script's ending and needs a dedicated search pass.
-- **Sanctions' concrete economic bite** — confirmed the US Glenn Amendment and Japan's aid suspension were imposed, but exact dollar figures of aid/loans cut off would strengthen the "why reserves collapsed" section.
-- Consider whether to extend the episode's timeline into 1999 (Kargil conflict, October 1999 coup) as a coda on lasting consequences, or keep strictly to the 1998-99 financial crisis — a structural decision for the Documentary Structure skill, not resolved here.
+**Resolved during fact-checking** (see `/Research/EP001_1998-pakistan-broke-on-purpose-factcheck.md`):
+- ~~Exact date of the FCA freeze announcement~~ — **Resolved: 28 May 1998**, the same day as the second round of tests, via presidential ordinance (FETRO 1998). Source: DAWN Wire Service contemporaneous reporting, corroborated by SBP's own circular index.
+- ~~Tax-incentive sourcing for the "irony" beat~~ — **Resolved:** Protection of Economic Reforms Act, 1992, gave foreign currency account holders "no questions asked" tax immunity. Tier 1 sourced.
+- ~~What happened to the frozen accounts~~ — **Partially resolved:** accounts were declared "revived" from 1 July 1998, but only for deposits made on/after that date — pre-28-May deposits stayed restricted. Single-source (DAWN Wire Service), so used in the script with attribution rather than as flat fact. The *full* long-term resolution (were pre-freeze dollar balances ever released in dollars, and when) is still not established — see below.
+
+**Still open:**
+- **GDP growth figures remain unverified** — a contradictory/unreliable secondary summary was found and rejected during fact-checking; still need PBS or SBP annual report figures for FY1997-98 and FY1998-99 specifically if this is wanted for the script (currently not used).
+- **Full long-term fate of pre-28-May-1998 deposits** — beyond the July 1998 partial revival, no source found yet on whether/when those specific balances were ever released in foreign currency, converted to rupees, or otherwise settled. Worth a dedicated search pass (Pakistani financial press archives, SBP historical reports) if a future re-cut of this episode wants a fuller ending.
+- **Sanctions' concrete economic bite** — confirmed the US Glenn Amendment and Japan's aid suspension were imposed, but exact dollar figures of aid/loans cut off were not found; not currently needed since the script doesn't quantify this.
+- Episode was kept to the 1998-99 financial crisis per the Documentary Structure skill's outline; extending into 1999 (Kargil, the coup) was considered and deliberately left out to keep the spine tight.
 
 ## Sensitivity flag (for `SENSITIVITY_CHECKLIST.md`)
 
