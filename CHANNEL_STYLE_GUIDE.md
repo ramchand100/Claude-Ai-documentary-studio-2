@@ -33,6 +33,8 @@ Ordinary Pakistani viewers — not economists, not policy wonks. Someone who has
 - Define jargon in one plain sentence the first time it's used. After that, use it freely.
 - Use analogies drawn from everyday Pakistani life (household budgets, mandi prices, bijli bill, rent) to explain economic and policy concepts.
 - Numbers: round for spoken delivery ("roughly 2.5 crore," not "24,873,000"), but keep the precise figure in the fact-check table and description.
+- Prefer Pakistani numbering (lakh/crore/arab) over Western units (million/billion) when a figure is in rupees — it's how the audience actually thinks about large numbers. Dollar figures can stay in "million/billion" (that's how they're normally reported), but when a dollar figure is large enough to be abstract, convert or compare it to something the viewer can picture in one sentence — a rupee equivalent, a percentage, a ratio against another figure already in the same script. Don't let a headline number stand alone with no sense of scale.
+- Every technical term (deficit, reserves, capital flight, an IMF program's acronym, etc.) gets a one-sentence plain-language definition **at its first use in the script** — not two sections later once it's already been used a few times. If a definition for a term shows up late in a draft, that's a sign to move it earlier, not just add it where convenient.
 - Short sentences for narration. Long sentences read fine; they don't speak well.
 
 ## Things to avoid

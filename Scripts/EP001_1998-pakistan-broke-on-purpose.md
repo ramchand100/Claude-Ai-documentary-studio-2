@@ -48,7 +48,7 @@ Lekin jashan ke peeche, ek doosri kahani shuru ho rahi thi — aur woh kahani ec
 
 Yahan se cheezein tezi se badalti hain.
 
-Pakistan us waqt already IMF ke saath ek three-year program mein tha — October 1997 se — jiska maqsad tha current account deficit kam karna aur reserves banana. Aur 1998 ke shuru mein, IMF ne khud kaha tha ke Pakistan theek chal raha hai. Program continue hua.
+Pakistan us waqt already IMF ke saath ek three-year program mein tha — October 1997 se. Simple lafzon mein: mulk bahar se jitna kama raha tha, usse zyada kharch kar raha tha — isi gap ko "current account deficit" kehte hain. Is program ka maqsad tha yeh gap kam karna, aur reserves banana — yaani woh dollars jo State Bank apne paas rakhta hai taake mulk apne imports, jaise tel aur gehun, ke bill chuka sake. Aur 1998 ke shuru mein, IMF ne khud kaha tha ke Pakistan theek chal raha hai. Program continue hua.
 
 Phir tests hue. Aur duniya ne react kiya.
 
@@ -68,11 +68,11 @@ Ab sarkar ke saamne ek problem thi jo roz badh rahi thi: log dar gaye the. Jab l
 
 Yeh bank run kehlaata hai. Aur agar yeh rukta nahi, toh reserves — jo already gir rahe the — mukammal khatam ho sakte the.
 
-Toh sarkar ne ek extraordinary faisla liya — aur yeh faisla usi din liya gaya jis din doosra nuclear test hua, 28 May 1998. Ek presidential ordinance ke zariye, har foreign currency account — private aur government banks dono mein — freeze kar diya gaya. Withdrawal band. Finance Minister Sartaj Aziz ne khud iski wajah batayi: capital flight ko rokna tha, warna mulk bankruptcy ke qareeb pahunch sakta tha.
+Toh sarkar ne ek extraordinary faisla liya — aur yeh faisla usi din liya gaya jis din doosra nuclear test hua, 28 May 1998. Ek presidential ordinance ke zariye, har foreign currency account — private aur government banks dono mein — freeze kar diya gaya. Withdrawal band. Finance Minister Sartaj Aziz ne khud iski wajah batayi: capital flight ko rokna tha — yaani paisa itni tezi se nikal kar bahar na chala jaye ke banks khaali reh jayein — warna mulk bankruptcy ke qareeb pahunch sakta tha.
 
 Lekin yahan ek irony hai jo shayad aap na jaante hon: yeh wahi log the jinhein pehle, 1992 ke ek qanoon ke tehat, khaas taur par encourage kiya gaya tha apna dollar Pakistan ke andar hi bank karne — koi sawaal nahi poocha jaayega ke paisa kahan se aaya, koi tax nahi lagega. Woh trust hi tha jisse sarkar ne kaam liya. Aur ab, usi din jab bomb phata, wahi trust tod diya gaya.
 
-Kitna paisa? Us waqt ki reporting ke mutabiq, takreeban 11.16 billion dollars accounts mein pade the.
+Kitna paisa? Us waqt ki reporting ke mutabiq, takreeban 11.16 billion dollars accounts mein pade the — us saal ke exchange rate par, yeh takreeban 513 arab rupees bante hain. Yeh number yaad rakhiye — kyunke thodi hi der mein pata chalega ke mulk ke paas khud kitna bacha tha.
 
 **[VISUAL NOTE: The $11B figure as a bold on-screen stat. Consider a visual metaphor — a vault door closing, or a counter freezing mid-count. If real news archive footage/photos from 1998 (bank queues, newspaper headlines) can be sourced and rights-cleared, use here — this is the section that most needs real period imagery.]**
 
@@ -86,7 +86,7 @@ Kitna paisa? Us waqt ki reporting ke mutabiq, takreeban 11.16 billion dollars ac
 
 Ab sawaal yeh hai: sarkar itni ghabrayi kyun thi?
 
-Kyunke reserves waqai khatam ho rahe the. November 1998 tak, Pakistan ke official foreign exchange reserves gir kar sirf takreeban 400 million dollars reh gaye the. Yeh sunne mein bhi bara lagta hai — lekin ek mulk ke liye jo imports par chalta hai, yeh sirf chand hafton ka kharcha hai.
+Kyunke reserves waqai khatam ho rahe the. November 1998 tak, Pakistan ke official foreign exchange reserves gir kar sirf takreeban 400 million dollars reh gaye the — yaani, jo 513 arab rupees hum abhi dekh kar aaye, uska bamushkil 3 se 4 percent. Yeh sunne mein bhi bara lagta hai — lekin ek mulk ke liye jo tel aur gehun jaisi cheezein bahar se import karta hai, yeh sirf chand hafton ka kharcha hai. Uske baad? Bill chukane ke liye dollar hi nahi bachte.
 
 Aur is dauraan currency par bhi pressure tha. Official rate 46 rupees per dollar tha — lekin agar aap black market mein jaate, toh rate 54 rupees tha. Yeh gap khud bata raha tha ke system ke andar kitna real pressure tha, jitna official numbers dikhate the.
 
@@ -100,7 +100,7 @@ Yeh woh moment tha jab Pakistan formal default se sirf kuch hafton door tha.
 
 **Narration:**
 
-14 January, 1999. IMF ne Pakistan ke ESAF program ka doosra saal approve kar diya — takreeban 575 million dollars release hue.
+14 January, 1999. IMF ne apne program ka doosra saal approve kar diya — takreeban 575 million dollars release hue.
 
 Kuch hafton baad, Paris Club — jo mulkon ka ek group hai jinhein Pakistan qarza deta hai — ne Pakistan ka debt reschedule kar diya. London Club ne bhi aisa hi kiya.
 
@@ -139,6 +139,8 @@ Agar yeh video aapko kuch naya sikhaata hai, toh subscribe karein — kyunke Pak
 See `/Research/EP001_1998-pakistan-broke-on-purpose-factcheck.md` for the full sourced claims table. Summary: 15 of 17 claims verified High confidence; one (the parallel-market exchange rate figure) Medium; one (the July 1 partial revival detail) Medium, attributed in the script as "us waqt ki reporting ke mutabiq" (per reporting at the time) rather than stated as flat fact. Two contradictory figures found during fact-checking ($2.5 billion frozen / April 1, 1998 date, from a low-reliability source) were checked against multiple corroborating sources and rejected — the script uses the corroborated $11.16 billion / May 28, 1998 figures instead.
 
 **Resolved from the original draft's gaps:** the exact freeze date (May 28, 1998 — the same day as the second round of tests) and the tax-incentive law behind the "irony" beat (Protection of Economic Reforms Act, 1992) are now sourced and included in Section 3. The July 1, 1998 partial account revival (new deposits only; pre-May 28 deposits stayed restricted) partially answers what happened to the frozen accounts and is now in Section 6.
+
+**Revision pass (user feedback):** jargon terms ("current account deficit," "reserves," "capital flight," "ESAF") previously used without definition on first mention are now defined in plain language inline (Sections 2 and 3); the "ESAF" acronym was dropped from Section 5's spoken narration entirely (kept in the fact-check report for precision). Large dollar figures previously stated without a relatable comparison now have one: $11.16B is converted to ~513 arab rupees at the 1998 official rate (46/dollar), and the $400M reserves figure is expressed as ~3-4% of that frozen amount — both are **derived by simple arithmetic from two already-verified figures in the fact-check report, not independently sourced new claims.** Flagging this derivation explicitly per the fact-checking skill's traceability rule.
 
 **Still open, deliberately excluded:** the GDP growth figures (contradictory secondary sourcing, never resolved) and the full long-term resolution of pre-May-28 deposits beyond the July 1, 1998 partial revival — whether/when those specific balances were ever released in dollars is still not established. Do not add either without new sourcing.
 
