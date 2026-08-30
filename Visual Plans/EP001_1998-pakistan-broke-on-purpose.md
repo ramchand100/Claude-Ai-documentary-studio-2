@@ -1,89 +1,117 @@
 # Visual Plan — EP001 — 1998: The Year Pakistan Went Broke on Purpose
 
-For each script section, list what editing needs. Script reference: `/Scripts/EP001_1998-pakistan-broke-on-purpose.md` (Fact-Checked status).
+**Edited in:** CapCut
 
-## Hook / Cold Open
+**Timestamps are estimates**, calculated from the script's narration word count at 140 words/minute. They will NOT match your real recording exactly. Once you record the voiceover, drag it onto CapCut's timeline first, then re-position each shot against the actual waveform before you finalize anything — treat every timestamp below as "roughly here," not "exactly here."
 
-- **B-roll ideas:** None needed — this is an illustrative/animated open, not documentary footage, since we have no sourced real account-holder to depict.
-- **Images required:** None (see Animations).
-- **Maps:** None yet — geography (Balochistan) comes in Section 1.
-- **Charts:** None.
-- **Animations:** A short (5-8 second) illustrated/animated sequence — a hand reaching for a bank counter, a stamp coming down reading "ACCOUNT FROZEN" (Urdu/English bilingual stamp graphic). Keep it stylized/simple (flat icon or line-art style), deliberately generic — do not render a recognizable face or name a bank, since this is not based on a real documented individual. Hard cut from the stamp to a bold on-screen stat: "$11 billion. Overnight." with a quick zoom-punch.
-- **Archive footage suggestions:** None for this beat — see note above on why it's illustrative, not archival.
-- **Editing notes:** Fast pacing, no more than 20-25 seconds total for the cold open. No narration pause before the stat card — let the number hit hard right on "Overnight." Hold the $11B stat card for at least 2 seconds so it registers before the cut to Section 1.
+**Estimated total runtime:** ~8:02 of raw narration, plus ~20% for visual holds and breathing room between beats ≈ **9:30–10:00**.
 
-## Section 1 — The Test
+**Flag: this is shorter than the outline's original 14–18 minute target.** The script as currently written doesn't fill that runtime. You have two options — I'm not picking for you:
+1. **Accept the shorter runtime.** ~9-10 minutes is a completely legitimate length for a focused historical explainer (the channel's length policy is topic-driven, not fixed) — the "Countdown to Crisis" structure works fine at this length.
+2. **Expand the script** — if you want closer to 14-18 minutes, go back to `/script-writing` and add depth somewhere (more on the sanctions' concrete impact, more on the depositors' human cost, or extend into 1999's aftermath). I wouldn't pad it just to hit a number — only expand if there's real content to add.
 
-- **B-roll ideas:** Generic desert/mountain establishing shots of Balochistan terrain if no archival footage is licensed (stock footage acceptable here, low specificity needed).
-- **Images required:** Photos of the Chagai Hills/Ras Koh test site if publicly available (government/press archive); a 1998 newspaper front page announcing the tests (for texture, not for reading on screen).
-- **Maps:** A Pakistan map graphic zooming into Balochistan province, then into Chagai district — 2-3 second zoom animation, labeled in Urdu/English.
-- **Charts:** None.
-- **Animations:** Simple timeline marker graphic: "11 & 13 May — India" → "28 & 30 May — Pakistan" as two beats on one timeline, reinforcing the cause-and-effect the narration states.
-- **Archive footage suggestions:** **Needs rights clearing.** 1998 celebration footage (people distributing mithai, street celebrations) would strongly serve this section's "jashan tha" line — check PTV archive, news agency footage (AP/Reuters archive licensing), or Pakistani news channel archives. **If unlicensed/unaffordable, fall back to a narrated montage of period-appropriate stock/generic celebration B-roll rather than specific 1998 footage** — do not use unlicensed footage.
-- **Editing notes:** Moderate pace — this section sets tone before Section 2 speeds up. Let the "jashan" beat breathe for a moment (contrast with what's coming), then cut quickly into "Lekin jashan ke peeche..." to pivot tone.
+## Shot list
 
-## Section 2 — The Bill Comes Due
+### Intro (0:00–0:03)
 
-- **B-roll ideas:** Generic footage/stock of a bank, a ledger, or financial documents to visually anchor the "IMF program" and "current account deficit" explainer — since this is the most jargon-dense section, keep visuals concrete and simple, not abstract.
-- **Images required:** None specific — icon/graphic-driven section.
-- **Maps:** Small icon-map or flag graphics for US and Japan when sanctions/aid suspension are mentioned.
-- **Charts:** **Timeline chart** — horizontal bar showing: Oct 1997 (program starts) → early 1998 (positive review, mark green) → 28-30 May 1998 (tests, mark red) → program disrupted. Data reference: `/Research/EP001_1998-pakistan-broke-on-purpose.md` Timeline table and `/Policies/imf-programs-pakistan.md`.
-- **Animations:** A simple two-panel icon animation for the "current account deficit" definition — one side "paisa aata hai" (money in, smaller stack) vs. other side "paisa jaata hai" (money out, bigger stack) to visualize the plain-language definition as it's spoken, so the definition lands visually, not just verbally.
-- **Archive footage suggestions:** None needed — this section is explanatory, not visual-history-driven.
-- **Editing notes:** Fast pacing per the script's own note ("Yahan se cheezein tezi se badalti hain"). Sanctions/aid-suspension beat should be quick icon cuts (US flag + "sanctions" icon, Japan flag + "aid suspended" icon), not lingering shots — keep momentum into Section 3.
+| # | Time (est.) | Visual/Shot | On-screen text | Music/SFX | Transition → next | CapCut tool |
+|---|---|---|---|---|---|---|
+| 0 | 0:00–0:03 | Channel logo/intro bump (if you don't have one yet, keep this to a plain 2-3s title card with the channel name — build a proper animated intro later, once you have more than one episode) | Channel name | Short sting or silence | Hard cut | **Text tool** for the title card; if you make a channel intro clip later, just drop it in as its own clip before this timeline |
 
-## Section 3 — The Freeze
+### Hook / Cold Open (0:03–0:51) — 112 words
 
-- **B-roll ideas:** Bank teller windows, closed counters, "withdrawal suspended" signage (generic/stock, not location-specific).
-- **Images required:** **Highest-priority section for real period imagery** — 1998 bank queues, newspaper headlines about the freeze, if rights-cleared (see below). A portrait-style graphic or name card for Sartaj Aziz when he's quoted (his role and quote should appear as on-screen text/lower-third for attribution).
-- **Maps:** None.
-- **Charts:** **Bar or stat-card graphic**: $11.16 billion / ₹513 arab, displayed boldly right as the narration states it. Consider showing both the dollar and rupee figures side by side, since the script now gives both. Data reference: fact-check report, claim #8; rupee conversion flagged there as a derived calculation.
-- **Animations:** A vault-door-closing or counter-freezing-mid-count animation for the freeze moment itself (as originally noted). A simple two-icon animation for the "capital flight" definition — money icon moving from a bank icon toward an arrow pointing outward, then an X blocking it, syncing with "yaani paisa itni tezi se nikal kar bahar na chala jaye."
-- **Archive footage suggestions:** **Needs rights clearing** — 1998 bank queues/newspaper headlines, as flagged in the sensitivity checklist. If unavailable/unaffordable, use a recreated newspaper-headline graphic (typeset to look period-appropriate, clearly a recreation, not presented as an actual archival photo) instead of unlicensed footage.
-- **Editing notes:** This is the emotional core of the episode per the outline — slow down pacing here relative to Section 2. Hold on the Sartaj Aziz quote/attribution card long enough to read. Per the script's own editorial note, keep the government-justification and depositor-cost beats visually balanced (don't visually favor one side, e.g. don't cut to sympathetic imagery only on the depositor beat and neutral/official imagery only on the government beat — match visual tone across both for the neutral framing the sensitivity checklist confirmed).
+| # | Time (est.) | Visual/Shot | On-screen text | Music/SFX | Transition → next | CapCut tool |
+|---|---|---|---|---|---|---|
+| 1 | 0:03–0:24 | Animated hand reaching for a bank counter, then a stamp comes down: "ACCOUNT FROZEN" (bilingual Urdu/English). Keep it flat/line-art style, generic (no real face, no named bank) | Stamp graphic reads "ACCOUNT FROZEN" | Low tense ambient bed starts quiet | — | **Stickers tab** (search "stamp" for the stamp graphic) + **Text tool** with a "stamp-down" scale animation (set the text's *In* animation to "Zoom" for a quick punch-in) |
+| 2 | 0:24–0:40 | Hold on frozen-account visual or cut to a simple dollar-bill icon animation while VO states "$11 billion... overnight" | Big bold stat card: **"$11 BILLION. OVERNIGHT."** | Same ambient bed, slight volume swell | Quick **zoom punch** on the stat card | **Text tool** — add the stat as its own text layer, use a **Keyframe** (tap the diamond icon on the clip) to scale it from 90% to 105% over 0.3s for a "punch" feel |
+| 3 | 0:40–0:51 | Pull back / fade the stat card, cut to a simple map silhouette of Pakistan with Balochistan highlighted, teasing the next section | (none — let the question "kyun?" land with silence or music only) | Music dips slightly under "Sawaal yeh hai: kyun?" for emphasis | **Whoosh** into Section 1 | **Transitions tab → "Whoosh"** (this preset includes its own built-in sound — don't also add a separate whoosh SFX or it'll double up) |
 
-## Section 4 — The Countdown
+**Section notes:** No real archival footage here — this is fully illustrative/animated since we have no sourced individual account-holder. Don't render a recognizable face.
 
-- **B-roll ideas:** Generic shipping/import imagery (a cargo ship, a fuel tanker, a wheat shipment) to visually anchor "tel aur gehun jaisi cheezein bahar se import karta hai."
-- **Images required:** None specific.
-- **Maps:** None.
-- **Charts:** **Two charts needed:**
-  1. Animated countdown/depletion bar or counter, from $11.16B (or from wherever reserves stood earlier) down to $400M by November 1998 — visualize as "weeks of import cover remaining" ticking toward zero, per the original visual note. Data reference: research brief Numbers table.
-  2. Side-by-side comparison bar: Official rate (46 PKR/USD) vs. parallel/black market rate (54 PKR/USD). **Flag: the parallel-market figure (54) is Medium confidence per the fact-check report — hold this exact number for a direct-source spot-check before it's rendered as on-screen text; if not resolved by edit time, either drop the precise "54" and describe the gap qualitatively, or clearly mark it as an approximate/reported figure on screen.**
-- **Animations:** The 400M-as-percent-of-513-arab visual (3-4%) should render as a simple shrinking bar or pie-slice graphic timed to the narration's callback line.
-- **Archive footage suggestions:** None needed.
-- **Editing notes:** This is the tension peak of the "countdown" structure — pacing should feel urgent (quicker cuts, a subtle ticking/tension audio cue if the editor wants one) building into "Pakistan formal default se sirf kuch hafton door tha," then a hard pause before Section 5 offers relief.
+### Section 1 — The Test (0:53–1:41) — 113 words
 
-## Section 5 — The Rescue
+| # | Time (est.) | Visual/Shot | On-screen text | Music/SFX | Transition → next | CapCut tool |
+|---|---|---|---|---|---|---|
+| 4 | 0:53–1:12 | India map flash, then zoom to Pokhran; brief archival-style stock desert footage | "11 & 13 May 1998 — India" as a small timeline label, bottom-left | Ambient bed continues, low | — | **Text tool** small lower-third style label; **Keyframe** for a slow zoom on the map image (set start scale 100%, end scale 115%) |
+| 5 | 1:12–1:26 | Pakistan map zooms into Balochistan → Chagai district; if licensed archive photos of the test site are available, cut to those here | "28 & 30 May 1998 — Chagai-I & Chagai-II" | Music holds | — | **Text tool** label; for the map zoom use **Keyframe** on a still map image, animating position + scale to simulate a "drone zoom-in" |
+| 6 | 1:26–1:34 | **[Needs rights clearing]** 1998 celebration footage (mithai distribution, street celebration) — if unlicensed, use generic celebration stock instead | (none) | Music brightens briefly (major-key sting or upbeat instrumental swell) | — | Drop licensed/stock clip directly onto timeline; use **Volume keyframe** to briefly raise the music since there's less narration here |
+| 7 | 1:34–1:41 | Music/tone shifts — cut to a darker visual (a shadow falling over the celebratory image, or a slow desaturation effect) as narration pivots to "doosri kahani" | (none) | Music tone drops back to tense ambient | **Filter/color shift** into Section 2 | **Adjustment clip** or **Filters tab** — apply a "cool/desaturate" filter with a keyframe fading it in over ~1s to signal the tonal pivot |
 
-- **B-roll ideas:** Generic handshake / signing-documents footage (stock acceptable, no specific individuals implied).
-- **Images required:** None specific.
-- **Maps:** None.
-- **Charts:** None — this section is narrative, not data-heavy relative to Section 4.
-- **Animations:** Simple document/handshake icon graphic for "IMF approval," then a second beat for "Paris Club" and "London Club" — since the script already explains Paris Club inline ("jo mulkon ka ek group hai jinhein Pakistan qarza deta hai"), sync a simple "creditor countries" icon graphic to that line rather than requiring the viewer to hold the explanation in their head.
-- **Archive footage suggestions:** None needed.
-- **Editing notes:** After Section 4's urgency, this section should feel like a release of tension — but per the narration's own framing ("Yeh koi clean victory nahi thi"), don't score/cut it as a triumphant resolution. Keep it measured, not celebratory.
+**Section notes:** Rights-clearing needed for real 1998 celebration footage (PTV archive, news agency licensing). Fallback: generic stock celebration B-roll, clearly not presented as the actual 1998 footage.
 
-## Section 6 — What It Left Behind
+### Section 2 — The Bill Comes Due (1:43–2:58) — 173 words
 
-- **B-roll ideas:** A modern-day bank branch exterior, a present-day person at an ATM or bank counter (generic/stock) — for the "aaj bhi mehsoos hota hai" pivot to present-day relevance.
-- **Images required:** None specific.
-- **Maps:** None.
-- **Charts:** None.
-- **Animations:** None needed beyond the pull-back transition already noted.
-- **Archive footage suggestions:** If period imagery was used earlier in the episode (Section 3), consider a brief callback flash-cut here for visual continuity before pulling to present-day.
-- **Editing notes:** Per the original visual note — slow pull-back from 1998 to present-day. The final line ("Woh ek doosri kahani hai") should land as a soft narrative thread, not a hard cliffhanger sting — avoid a dramatic stinger sound/visual here; keep the transition subtle per the outline's own instruction not to oversell a sequel tease.
+| # | Time (est.) | Visual/Shot | On-screen text | Music/SFX | Transition → next | CapCut tool |
+|---|---|---|---|---|---|---|
+| 8 | 1:43–1:46 | Quick cut to a ticking-clock or fast-forward icon (signals pace pick-up) | (none) | Music tempo/energy increases slightly | — | **Effects tab → "Speed lines"** or similar quick-motion effect overlay, held briefly |
+| 9 | 1:46–2:27 | Horizontal **timeline chart**: Oct 1997 (program starts, green) → early 1998 (positive review, green) → 28-30 May (tests, mark red) → program disrupted. Build it as the narration reaches each date | Timeline chart with dated labels; simple two-icon animation for "current account deficit" (money-in vs money-out) partway through | Music holds | — | **Text + Elements**: build the timeline as stacked text/shape elements; use **Keyframe** to reveal each date marker in sequence as narration reaches it, not all at once |
+| 10 | 2:27–2:31 | Quick cut — a radio/TV static flicker effect (signals "the world reacted") | (none) | Sting/stab in music | Quick **flash cut** | **Effects tab → "Glitch"** or **"Flash"**, applied briefly (under 1s) |
+| 11 | 2:31–2:50 | US flag icon + "sanctions" stamp graphic; Japan flag icon + "aid suspended" graphic — quick icon cuts, not lingering shots | "Glenn Amendment — US Sanctions" / "Japan: Aid Suspended" as they're named | Music continues, tense | — | **Stickers tab** for flag icons; **Text tool** for labels, each with a quick **Fade In** (0.2s) |
+| 12 | 2:50–2:58 | Simple "cracking" animation over the earlier IMF timeline chart (a crack line spreading across the green bar) | (none) | Music dips before the freeze reveal | **Whoosh** into Section 3 | **Transitions tab → "Whoosh"** (built-in sound, don't double up with a separate SFX) |
 
-## Sign-off
+**Section notes:** Keep this section's cuts fast per the script's own pacing note — no shot should hold longer than ~10s except the timeline chart build.
 
-- **B-roll ideas:** None — standard channel end-card/subscribe animation (reuse the channel's standard template if one exists; if not, this episode's end-card can become the channel's first standard template).
-- **Images required:** Channel logo/branding.
-- **Maps / Charts / Animations:** Standard subscribe-button animation per whatever end-card format the channel adopts.
-- **Archive footage suggestions:** None.
-- **Editing notes:** Keep brief — under 10 seconds before the video ends.
+### Section 3 — The Freeze (3:00–5:00) — 280 words (longest section, the emotional core)
+
+| # | Time (est.) | Visual/Shot | On-screen text | Music/SFX | Transition → next | CapCut tool |
+|---|---|---|---|---|---|---|
+| 13 | 3:00–3:19 | Generic bank-teller-window B-roll, closed counter shots | (none) | Music slows, tension builds (lower register) | — | Drop stock B-roll clip; **Filters tab** apply a slightly desaturated/cool tone to match the mood |
+| 14 | 3:19–3:29 | Simple animation: crowd-of-people icons all moving toward one "bank" icon at once (visualizing "bank run") | "Bank Run" label, brief | Music holds tense | — | **Elements** (people icons) animated with **Keyframe** — position them converging toward center over the shot's duration |
+| 15 | 3:29–4:06 | **Vault door closing** or **counter freezing mid-count** animation for the freeze moment. Cut to a portrait/name-card graphic for Sartaj Aziz when his quote is stated | Lower-third: "Sartaj Aziz, Finance Minister (1998)" | Music holds a low sustained tone, minimal movement | — | **Elements/Stickers** for the vault animation; **Text tool** lower-third template for the name card, held on screen ~4-5s so it's readable |
+| 16 | 4:06–4:38 | Two-icon animation for "capital flight": money icon moving from a bank icon toward an outward arrow, then an X blocks it, synced to "yaani paisa itni tezi se nikal kar bahar na chala jaye" | Small definition label: "Capital Flight = money rushing out of the country" | Music continues | — | **Elements** + **Keyframe** to animate the money icon's movement path; **Text tool** for the small definition label, timed to appear exactly as the phrase is spoken |
+| 17 | 4:38–5:00 | **Stat card**: "$11.16 BILLION" with "≈ ₹513 ARAB" beneath it, both bold, side by side | "$11.16 BILLION ≈ ₹513 ARAB (est.)" | Music holds, let the number land with a brief pause in the bed if possible | **Hold 2s before cutting** (per editing note below) | **Text tool**, two stacked text layers; use **Keyframe** to punch-scale the card in, same technique as the Hook's stat card (Shot 2) for visual consistency |
+
+**Section notes:** **[Needs rights clearing]** 1998 bank queue/newspaper footage would strengthen shots 13-15 — check PTV archive or news agency licensing. Fallback: a recreated newspaper-headline graphic (typeset to look period-appropriate but clearly a recreation, not passed off as a real archival photo) instead of unlicensed footage. Per the sensitivity checklist, keep the government-justification (shot 15) and depositor-cost (shot 16-17) visually balanced — same visual tone/quality on both, don't favor one side.
+
+### Section 4 — The Countdown (5:02–6:08) — 154 words
+
+| # | Time (est.) | Visual/Shot | On-screen text | Music/SFX | Transition → next | CapCut tool |
+|---|---|---|---|---|---|---|
+| 18 | 5:02–5:05 | Quick cut to a question-mark graphic or the narrator's question held as text | "Kyun?" | Music: brief silence/dip for emphasis | — | **Text tool**, simple fade in/out |
+| 19 | 5:05–5:41 | **Animated depletion bar**: starts near $11B (or "full"), ticks down toward $400M as narration states the November figure. Include the "≈3-4% of ₹513 arab" callback as a shrinking pie-slice or bar segment | "$400 MILLION (Nov 1998)" then "≈ 3-4% of what was frozen" | Music intensifies — this is the tension peak, consider a subtle ticking-clock SFX under the bed | — | **Elements** (bar/pie shape) animated via **Keyframe** to shrink over the shot's duration, synced to narration beats; **Sound effects library → search "tick" or "clock"** for the optional ticking cue, kept very low in the mix |
+| 20 | 5:41–6:02 | **Side-by-side comparison bar**: Official rate (46) vs. parallel rate (⚠ flagged, see note) | "Official: 46 PKR/USD" / "Parallel market: ~54 PKR/USD (unconfirmed — verify before final export)" | Music holds | — | **Text + Elements** for the two bars; **flag directly in the on-screen text or your own notes that the 54 figure needs the spot-check from the fact-check report before this card is finalized** |
+| 21 | 6:02–6:08 | Hold on a tense final frame — maybe the depletion bar frozen near-empty | "Weeks from default" | Music peaks then cuts to near-silence for 1 beat | **Hard cut to silence**, then **Whoosh** into Section 5 | **Volume keyframe** — drop music to near-zero for ~0.5s right before the transition, for impact; then **Transitions tab → "Whoosh"** |
+
+**Section notes:** This is the outline's tension peak — keep cuts quicker here than in Section 3. **Do not finalize the "54" parallel-market figure as on-screen text until the fact-check report's spot-check is done** — if unresolved by edit time, drop the precise number and describe the gap qualitatively instead ("a noticeably higher unofficial rate").
+
+### Section 5 — The Rescue (6:10–6:47) — 87 words
+
+| # | Time (est.) | Visual/Shot | On-screen text | Music/SFX | Transition → next | CapCut tool |
+|---|---|---|---|---|---|---|
+| 22 | 6:10–6:18 | Simple document/handshake icon graphic | "14 January 1999 — IMF Approves New Program" | Music shifts to a slightly less tense, "resolving" variant (same bed family, not a jarring change) | — | **Elements** (handshake icon) + **Text tool** date label |
+| 23 | 6:18–6:32 | Second icon beat: a small group of flag/building icons labeled "creditor countries" as Paris/London Club are named | "Paris Club & London Club: debt rescheduled" | Music continues, measured (not triumphant — see note) | — | **Elements** + **Text tool**, same style as shot 22 for consistency |
+| 24 | 6:32–6:47 | Hold on a neutral graphic (not celebratory) — maybe the earlier depletion bar shown refilling only partially | (none, or a small "Not a clean win" text overlay if you want to reinforce the line visually) | Music stays measured, avoid a triumphant swell | **Whoosh** into Section 6 | **Transitions tab → "Whoosh"** |
+
+**Section notes:** Per the script's own framing ("Yeh koi clean victory nahi thi"), do NOT score this section as a triumphant resolution — keep the music and visuals measured, not celebratory.
+
+### Section 6 — What It Left Behind (6:49–7:51) — 144 words
+
+| # | Time (est.) | Visual/Shot | On-screen text | Music/SFX | Transition → next | CapCut tool |
+|---|---|---|---|---|---|---|
+| 25 | 6:49–7:06 | Brief callback flash-cut to Section 3's frozen-account imagery, then a "REVIVED — new deposits only" stamp/label appears | "1 July 1998: accounts 'revived' — new deposits only" | Music softens, becomes more reflective | — | **Text tool** stamp-style label, reusing the same stamp animation style from the Hook (shot 1) for visual continuity |
+| 26 | 7:06–7:28 | Slow pull-back: 1998 imagery fades into a present-day bank branch exterior or a person at an ATM (generic/stock) | (none) | Music fully shifts to a reflective/emotional variant | — | **Transitions tab → "Fade"** (slow cross-dissolve, not a hard cut) between the 1998 and present-day shots; use **Speed ramp** to slow the pull-back slightly if the stock clip feels too fast |
+| 27 | 7:28–7:37 | Hold on the present-day shot | "A trust crisis — not just an economic one" (optional on-screen text, or let it play with no text) | Music holds, quiet | — | Optional **Text tool**, understated fade in/out |
+| 28 | 7:37–7:51 | Subtle visual thread — do NOT use a dramatic stinger; keep it soft | (none — let "Woh ek doosri kahani hai" land without a visual cliffhanger sting) | Music begins to fade toward the sign-off | **Simple fade**, no hard sting | **Volume + video fade keyframes**, gradual over ~2s |
+
+**Section notes:** Per the outline's own instruction — no hard cliffhanger sting here. Keep the transition into Sign-off soft.
+
+### Sign-off (7:53–8:02) — 22 words
+
+| # | Time (est.) | Visual/Shot | On-screen text | Music/SFX | Transition → next | CapCut tool |
+|---|---|---|---|---|---|---|
+| 29 | 7:53–8:02 | Standard subscribe end-card (build once, reuse every episode) | "Subscribe" button graphic + channel handle | Music resolves to a short outro sting | End of video | **CapCut's Stickers/Elements** for a subscribe-button graphic, or build a simple end-card template once and save it as a **CapCut template/draft** to reuse on every future episode |
+
+## Music bed plan
+
+- **Overall mood arc:** tense/curious (Hook–S2) → building/urgent (S3–S4 peak) → measured release, not triumphant (S5) → reflective (S6–Sign-off)
+- **Where to find it in CapCut:** Audio tab → **Sounds** (CapCut's built-in royalty-free library) → search by mood keyword ("suspense," "tense," "emotional," "corporate") rather than a specific track name — the library catalog changes over time, so a named track may not exist when you actually edit.
+- **Volume automation:** Use CapCut's **auto-ducking** (or manual **Volume keyframes**) to drop music under narration throughout — the bed should sit quietly behind the voice everywhere except the few "let it breathe" beats called out above (shots 2, 15, 21, 24).
+- **One track family, not a new track per section** — pick 2-3 mood variants from the same artist/pack if possible so the transitions between moods feel intentional, not jarring.
 
 ## Asset checklist
 
-- [ ] All charts sourced with data reference — done above; two items need resolution before final render: (1) parallel-market rate (54) needs a spot-check per the fact-check report, (2) confirm the $11.16B→₹513 arab conversion is displayed as approximate/derived, not as an independently sourced figure.
-- [ ] All archive footage rights-checked or fair-use justified — **two open items:** Section 1 (1998 celebration footage) and Section 3 (bank queues/newspaper headlines) both need rights clearance before use; recreation/stock fallbacks specified above if clearance isn't feasible.
-- [ ] Maps accurate to current boundaries/names — Balochistan/Chagai district map (Section 1) should reflect standard current provincial boundaries; no historical boundary changes affect this specific area, so no special handling needed.
+- [ ] All charts sourced with data reference — done throughout the shot list above; two items need resolution before final render: (1) the parallel-market rate (shot 20) needs the fact-check report's spot-check, (2) the $11.16B→₹513 arab conversion (shot 17) is displayed as approximate/derived, not independently sourced.
+- [ ] Archive footage rights-checked or fair-use justified — two open items: Section 1 celebration footage (shot 6) and Section 3 bank-queue/newspaper imagery (shots 13-15); fallbacks specified above.
+- [ ] Maps accurate to current boundaries/names — Balochistan/Chagai district map, standard current provincial boundaries, no special handling needed.
+- [ ] All timestamps re-synced against the real recorded narration before final export — **this is the single most important item on this checklist.** Everything above is a planning estimate.
+- [ ] Music bed pulled only from CapCut's built-in library (or another confirmed royalty-free source) — don't drop in a recognizable commercial song.
