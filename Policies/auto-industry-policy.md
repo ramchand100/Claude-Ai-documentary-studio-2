@@ -13,12 +13,15 @@ AIDEP 2021-26 expired 30 June 2026. Its successor was meant to take effect 1 Jul
 ## Key figures
 
 - Sales tax on locally assembled vehicles: raised to 25% on 8 March 2023
-- National Tariff Policy target: weighted average tariff 10.6% → 6% by 2030
-- Auto-specific: CBU tariffs 20% → 15% over 5 years; regulatory duty cuts 55-90% in FY2026 alone; additional customs/regulatory duties on autos eliminated entirely by 2030
+- **National Tariff Policy target — TWO CONFLICTING FIGURES, UNRESOLVED:** press coverage says weighted average tariff 10.6%→6% by 2030; the CCP's own Feb 2026 report says "overall tariff rate 20.19%→9.7% by 2029-30." Don't use either as *the* figure without checking the primary NTP document (still inaccessible as of this research — Cloudflare-blocked).
+- NTP 2025-30 is Pakistan's *second* National Tariff Policy (built on NTP 2019-24); a new Tariff Policy Board, chaired by the Minister for Commerce, now oversees it institutionally
+- Auto-specific: CBU tariffs targeted toward 15%; regulatory duty cuts 55-90% in FY2026 alone (SRO 1152(I)/2025 already imposes 10%/50% Regulatory Duty on CBU imports); additional customs/regulatory duties on autos eliminated entirely by 2030
+- Historical CBU tariffs under the 2006-16 Tariff-Based System: 50% to over 100% by engine size (this is the origin of the "up to 155%" figure some secondary sources cite)
 - Used-car import surcharge: 40% above new-vehicle rates in FY2026, declining 10 percentage points/year to parity by 2030
 - Hybrid vehicles: 25% customs duty reduction; EVs: 50% reduction, plus 1% concessionary sales tax and CKD customs exemptions through 30 June 2027
+- A companion New Energy Vehicle (NEV) Policy 2025-30 sets specific volume targets by vehicle category, totaling ~2.2 million NEVs cumulatively by 2029-30
 
-Full sourcing and detail: `/Research/EP002_auto-tax-small-car-house-deposit.md`. **Three primary-source PDFs (Competition Commission of Pakistan's competition study, the National Tariff Policy 2025-30 document, AIDEP 2021-26) were located but not yet fully read — high priority for a follow-up pass before this file is treated as fully reliable.**
+Full sourcing and detail: `/Research/EP002_auto-tax-small-car-house-deposit.md`. **Update:** the Competition Commission of Pakistan's competition study was successfully read in full (via direct PDF text extraction) and is now the strongest source in this file. The National Tariff Policy 2025-30 document remains inaccessible (bot-blocked), and AIDEP 2021-26 was downloaded but its text couldn't be extracted with available tooling this session (font-encoding issue) — both still worth a proper read if a future episode needs to lean harder on their exact language.
 
 ## Reusable for future episodes
 
