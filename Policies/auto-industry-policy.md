@@ -4,7 +4,11 @@ Contributed by: EP002 ("The Auto Tax: Why a Small Car Costs a House Deposit")
 
 ## Summary
 
-Four major policy eras: the **Deletion Program** (1987-2004, mandatory local parts content), the **Tariff-Based System** (2006-2016, WTO-compliant replacement that entrenched existing assemblers), **AIDP/AIDEP** (2016-2026, aimed at breaking the "Big Three" oligopoly and adding EV/hybrid incentives), and the current **National Tariff Policy 2025-30** (IMF-backed, actively cutting auto tariffs toward a 6-7.4% weighted average by 2030).
+Five major policy eras: the **Deletion Program** (1987-2004, mandatory local parts content), the **Tariff-Based System** (2006-2016, WTO-compliant replacement that entrenched existing assemblers), **AIDP/AIDEP 2016-26** (aimed at breaking the "Big Three" oligopoly and adding EV/hybrid incentives), the **National Tariff Policy 2025-30** (IMF-backed, actively cutting tariffs across all sectors including autos), and the **new AIDEP 2026-31** — **unresolved as of Aug 2026**, the direct successor to the expired 2021-26 policy, currently caught in an inter-ministerial dispute over how fast to cut tariffs.
+
+## ⚠ Live policy gap (as of 31 Aug 2026)
+
+AIDEP 2021-26 expired 30 June 2026. Its successor was meant to take effect 1 July 2026 but was still not cabinet-approved as of mid-August 2026 — an Ishaq Dar-led steering committee reached only "in-principle" consensus on 13 August 2026. The core dispute: Ministry of Commerce (National Tariff Policy) wants CBU import tariffs down to 15% by 2030; Ministry of Industries and Production wants a slower 40-75% (by engine size) by 2030. Targets in the draft: 500,000+ vehicles/year and $1B in auto exports by 2031. **Re-verify current status before any future episode cites this as settled — this was actively moving at time of writing.**
 
 ## Key figures
 
