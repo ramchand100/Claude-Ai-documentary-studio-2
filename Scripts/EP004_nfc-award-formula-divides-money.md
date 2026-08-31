@@ -1,6 +1,6 @@
 # Script — EP004 — The NFC Award: The Formula That Divides Pakistan's Money
 
-**Status:** Draft
+**Status:** Fact-Checked (see `/Research/EP004_nfc-award-formula-divides-money-factcheck.md`)
 **Structure type:** Custom — "Institutional Arc" (see `/Research/EP004_nfc-award-formula-divides-money-outline.md`)
 **Target length:** ~8 minutes (accepted shorter cut — see Notes)
 
@@ -9,6 +9,7 @@
 - [x] Terminology checked against GLOSSARY.md — two new terms proposed below, need your approval
 - [x] First 30 seconds hooks before defining anything
 - [x] Neutral on every claim and every topic — no stance or opinion baked into the narration beyond what's sourced
+- [x] Fact-checked — 17 of 19 claims High confidence (Article 160's exact text confirmed directly), 2 flagged Medium pending a second-source check; see report
 
 ## Notes
 
