@@ -44,14 +44,32 @@ A working bridge is usually one of:
 
 After drafting, reread just the last sentence of each section against the first sentence of the next, back to back, with the section headers removed — if it doesn't read as continuous spoken narration, add a bridge before moving on.
 
+## Check runtime before presenting, not after
+
+**Don't let the length mismatch surface for the first time in Visual Planning — catch it here, while it's still cheap to fix.** Once fact-checking has run, expanding the script means redoing that work too.
+
+1. Count narration words per section (same method Visual Planning uses: word count ÷ 140 words/minute, a conservative clear-explainer pace).
+2. Sum for a total estimated runtime and compare it against the outline's target length range.
+3. If there's a meaningful gap, say so plainly in the script's **Notes** section rather than silently presenting a draft that's obviously short or long — and decide whether to expand/trim now, before the draft goes further, or explicitly accept the shorter/longer runtime (both are legitimate outcomes per the channel's topic-driven length policy).
+
+## Reread for how it sounds spoken, not how it reads on paper
+
+This is audio a host will actually say out loud — a sentence that looks fine as text can still be awkward to speak. Before presenting the draft, reread the whole thing (silently is fine, but read it as if speaking it) specifically checking for:
+- Tongue-twisters or clusters of hard-to-say words back to back
+- Awkward seams in the Urdu/English code-switching — a clause that would make a speaker stumble over which language they're in
+- Sentences that are grammatically fine but don't have a natural spoken rhythm (too many clauses stacked before a breath, an unnatural word order)
+
+Fix what you find. This is a separate pass from the transition check above — that one is about section-to-section flow, this one is about sentence-level speakability.
+
 ## Process
 
 1. Draft section by section, following the outline's structure and section sizing — don't pad a section that the topic doesn't support, don't rush one that needs room.
 2. Every factual claim in the narration should trace back to something in the research brief. Do not introduce new facts not present in the research — if something is needed and missing, flag it rather than inventing it.
 3. Check terminology against `GLOSSARY.md` as you go. If a new recurring term comes up that isn't in the glossary, propose a rendering and flag it for the user's approval rather than silently deciding.
-4. Any editorial or creative-judgment flag goes into the **Notes** section at the top of the script — not inline, not scattered through the sections. Collect these as you draft rather than only at the end.
-5. At the end, compile a **"Claims requiring fact-check"** list — every number, date, quote, and causal claim stated as fact. This feeds directly into the Fact-Checking skill.
-6. Self-check against the Style Guide's "Things to avoid" list before presenting the draft — academic tone, political endorsement, unverified claims stated as fact, clickbait mismatch, and a stance or opinion creeping into the narration on any topic, sensitive-looking or not.
+4. Any editorial or creative-judgment flag goes into the **Notes** section at the top of the script — not inline, not scattered through the sections. Collect these as you draft rather than only at the end. Copy the outline's **spine** (one sentence) into Notes too, so the draft is checkable against its own throughline without opening the outline file separately.
+5. Run the runtime check and the read-aloud check (above) before presenting the draft.
+6. At the end, compile a **"Claims requiring fact-check"** list — every number, date, quote, and causal claim stated as fact. This feeds directly into the Fact-Checking skill.
+7. Self-check against the Style Guide's "Things to avoid" list before presenting the draft — academic tone, political endorsement, unverified claims stated as fact, clickbait mismatch, and a stance or opinion creeping into the narration on any topic, sensitive-looking or not.
 
 ## Output
 

@@ -12,6 +12,10 @@
 
 ## Notes
 
+**Spine (from the outline):** [one sentence — the question this episode answers, or the change it tracks. Copied from the documentary outline so it's checkable here without opening a second file.]
+
+**Estimated runtime:** [word count ÷ 140wpm across all sections] vs. **outline target:** [range from the outline]. [State plainly if there's a meaningful gap — don't force the number to fit.]
+
 Editorial and creative-judgment flags go here — anything that needs the user's read before it's treated as settled (a framing choice on a sensitive beat, a place where neutrality is hard to hold, a contested point where the narration deliberately avoided taking a side). **This is the only place in the file for notes of any kind — the section bodies below are narration only, nothing else.**
 
 - [Flag 1, if any]
