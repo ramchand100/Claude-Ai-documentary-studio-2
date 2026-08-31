@@ -2,7 +2,7 @@
 
 **Status:** Draft
 **Structure type:** Custom — "Institutional Arc" (see `/Research/EP004_nfc-award-formula-divides-money-outline.md`)
-**Target length:** 12-16 minutes
+**Target length:** ~8 minutes (accepted shorter cut — see Notes)
 
 ## Style guide compliance
 - [x] Follows CHANNEL_STYLE_GUIDE.md voice/tone
@@ -14,7 +14,7 @@
 
 **Spine (from the outline):** A single formula, unchanged in any meaningful way since 2009, decides how much money each Pakistani province actually has — and the commission meant to finally update it has spent a year struggling to even hold its meetings.
 
-**Estimated runtime:** 927 words ÷ 140wpm ≈ 6.6 minutes raw narration, plus ~20% for pacing/breathing room ≈ **~8 minutes**. This is well under the outline's 12-16 minute target range — flagging plainly rather than padding it. The research brief is genuinely thinner on this topic than EP001/EP002 (fewer confirmed numbers, one province's position entirely unsourced), and the chronological structure doesn't need much runtime to cover cleanly. Two honest options: accept ~8 minutes as a tight, focused explainer (a legitimate length per the channel's topic-driven policy), or go back to `/research-assistant` for a deeper pass (especially on Punjab's position and the Balochistan-specific proposed numbers) to responsibly support a longer cut. Your call — didn't pad it to hit a number.
+**Estimated runtime:** 927 words ÷ 140wpm ≈ 6.6 minutes raw narration, plus ~20% for pacing/breathing room ≈ **~8 minutes**. Below the outline's 12-16 minute target range — **user reviewed and accepted the ~8 minute cut rather than expanding research**, so this stands as the target length for this episode; not treated as a gap needing further action.
 
 **Editorial flags:**
 - **Section 2** states that the population-only formula (1973-2009) structurally benefited Punjab, since it's the most populous province. This is presented as a mathematical/structural fact (the same way the research brief notes Balochistan's low population structurally limits its share under that formula), not as a claim about Punjab's political position — Punjab's actual stance was never sourced and isn't stated anywhere in this script. Worth your read to confirm this distinction lands clearly rather than reading as an implied position.
