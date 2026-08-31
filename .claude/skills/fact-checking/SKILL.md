@@ -7,6 +7,10 @@ description: Extract every factual claim from a drafted script and verify it —
 
 Verify a script before it moves forward. This is a distinct pass from research — research gathers, this checks.
 
+## Tools
+
+Same as the Research Assistant skill: when a claim needs checking against a primary document that's a PDF or sits behind a bot-block, try the Tavily connector's extraction tool (`mcp__Tavily__tavily_extract`) before accepting a weaker secondary source. A claim upgraded from "search-summary" to "directly read the primary document" is exactly the kind of thing that moves a Low/Medium confidence rating to High.
+
 ## Process
 
 1. **Extract every claim** stated as fact in the script: statistics, dates, company information, government policy details, historical facts, quotes, and causal statements ("X caused Y").

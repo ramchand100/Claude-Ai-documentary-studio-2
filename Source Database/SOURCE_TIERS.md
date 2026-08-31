@@ -44,5 +44,13 @@ Log frequently reused sources below so future episodes don't re-discover them fr
 | PBS — Pakistan Bureau of Statistics | 1 | Inflation, population, economic surveys | |
 | SBP — State Bank of Pakistan | 1 | Monetary policy, reserves, exchange rate | |
 | PSX — Pakistan Stock Exchange | 1 | Listed company filings | |
+| Ministry of Finance (finance.gov.pk) | 1 | Pakistan Economic Survey, budget documents, debt data | |
+| Ministry of Commerce (commerce.gov.pk) | 1 | Trade/tariff policy documents | PDFs on this site are Cloudflare-protected — `WebFetch` gets a bot-challenge page, not the document. Use Tavily's extraction tool instead. |
+| Competition Commission of Pakistan (cc.gov.pk) | 1 | Market concentration, cartel/enforcement cases across sectors | Has published sector-specific competitive-structure studies (e.g. automobile industry, Feb 2026) that are unusually rich, direct-from-regulator sources — worth checking for any industry episode. |
+| Engineering Development Board / Ministry of Industries and Production (moip.gov.pk, engineeringpakistan.com) | 1 | Auto and engineering-sector policy documents | |
+| PAMA — Pakistan Automotive Manufacturers Association (pama.org.pk) | 1 (sales data) / 4 (advocacy positions) | Auto industry sales data and policy PDFs | Some PDFs hosted here use font encodings that don't extract cleanly with basic tools — Tavily's extraction succeeded where manual extraction failed. |
+| Ministry of Federal Education / pie.gov.pk | 1 | School enrollment, education statistics | |
 | Dawn Business | 3 | General business reporting | |
 | Profit by Pakistan Today | 3 | Business/economy deep dives | |
+
+**On PDFs and blocked sites:** several official Pakistani government sites (`.gov.pk` domains especially) either serve documents as PDFs that basic fetch tools can't read, or sit behind bot-protection. Try `WebFetch` first; if it fails or returns garbled/binary content, try the Tavily connector's extraction tool before falling back to a secondary source describing the document instead of the document itself — see the Research Assistant skill's Tools section for detail.
