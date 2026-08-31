@@ -7,6 +7,8 @@ description: Generate a beginner-friendly, CapCut-specific shot list for a fact-
 
 Turn a fact-checked script into a shot-by-shot edit list the user can follow directly in CapCut without having to interpret or improvise anything — the user is a beginner editor, so vague creative direction ("add a transition here") is not enough; name the exact tool and setting.
 
+**Scripts contain narration only — no inline visual cues.** Every visual idea in the shot list is originated by this skill from reading the pure narration section by section, not expanded from pre-seeded hints in the script. Read each section's text closely and judge for yourself what needs a chart, what needs B-roll, what needs an on-screen stat — the script won't tell you.
+
 ## Process
 
 1. **Count narration words per section** (the actual script text, not the visual notes). Estimate spoken duration at **140 words/minute** (a conservative, clear-explainer pace) — flag this rate explicitly wherever it's used, since it's an assumption, not a measured fact.
@@ -23,7 +25,7 @@ Turn a fact-checked script into a shot-by-shot edit list the user can follow dir
 
 ## Process notes
 
-- Replace the script's inline `[VISUAL NOTE: ...]` placeholders with fully specified shot-list rows — nothing should be left as a vague placeholder.
+- Also check the script's **Notes** section at the top — any editorial flag left there (a sensitivity concern, a framing call) may have visual implications worth carrying into the shot list (e.g. "keep both sides visually balanced" from a neutrality note).
 - Keep each row brief and scannable (a table row, not a paragraph) — the goal is something the user can glance at while actually sitting in CapCut, not a creative brief to be interpreted later.
 - Match visual density to section pacing: a fast-moving hook section needs quick cuts (shorter shot durations); a data-heavy section needs a chart to hold long enough to actually read.
 - **Timestamps are always estimates until the real narration is recorded.** State this plainly in the output and remind the user to re-sync against the actual waveform in CapCut's timeline before finalizing.

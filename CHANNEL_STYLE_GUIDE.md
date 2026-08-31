@@ -11,7 +11,16 @@ Ordinary Pakistani viewers — not economists, not policy wonks. Someone who has
 - Explaining to a friend over chai, not lecturing from a podium.
 - Conversational Urdu + simple English, mixed the way Pakistanis actually speak — not formal Urdu, not academic English.
 - First person plural where natural ("humein," "we'll see") — the narrator is with the viewer figuring this out, not above them.
-- Confident but not preachy. State facts; let the viewer draw conclusions on charged topics.
+- Confident but not preachy. State facts; let the viewer draw conclusions — see Neutrality below.
+
+## Neutrality
+
+**Stay neutral on every topic, not just the ones that look sensitive.** It's easy to remember neutrality on a nuclear crisis or a provincial dispute and forget it on something that seems purely technical — a tariff schedule, a company's history, an industry's numbers. The rule is the same everywhere:
+
+- The narration states facts and lets the viewer draw conclusions. It doesn't editorialize, doesn't imply a verdict, and doesn't take a side the sourced facts don't support — on any topic, charged or not.
+- When a topic has more than one legitimate viewpoint (government vs. industry, a policy's supporters vs. its critics, competing explanations for the same event), represent each side's actual argument, not a strawman version of it — this isn't limited to overtly political topics.
+- Angle and opinion are the user's editorial call to add on top, after the draft — never something the script bakes in by default. If a script reads like it's arguing for a conclusion rather than laying out facts, that's a sign to flatten the framing, not sharpen it.
+- Neutral doesn't mean bland or both-sides-for-its-own-sake — a well-sourced fact can be stated plainly even if it's unflattering to someone. Neutrality is about not editorializing beyond what's sourced, not about manufacturing false balance on settled facts.
 
 ## Tone
 
@@ -41,6 +50,7 @@ Ordinary Pakistani viewers — not economists, not policy wonks. Someone who has
 
 - Academic tone, textbook definitions, or reading a Wikipedia summary aloud.
 - Political endorsement or attacking individuals — critique policies, systems, and decisions, not people's character or faith.
+- The narration taking a side or implying a verdict on any topic — see Neutrality above. This applies even when the topic doesn't look sensitive at first glance.
 - Unverified claims stated as fact — see `SENSITIVITY_CHECKLIST.md` and the Fact-Checking skill.
 - Fixed structure for every episode — a company story, a policy explainer, and a historical piece should not sound like the same template with different words swapped in (see the Documentary Structure skill).
 - Clickbait titles the video doesn't deliver on — curiosity is earned, not tricked.

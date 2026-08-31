@@ -24,15 +24,22 @@ Read, every time (don't rely on memory from a previous session):
 - Use analogies from everyday Pakistani life
 - Maintain curiosity — open loops, delayed payoffs
 - Avoid unnecessary jargon; define what's unavoidable, once, in plain language
+- **Neutral on every topic, not just the visibly charged ones.** State facts and let the viewer draw conclusions — this applies uniformly, whether the topic is a nuclear-crisis history, a tariff policy, or something that doesn't look sensitive at all. The narration itself never takes a stance beyond what the sourced facts support; angle and opinion are the user's editorial call to add afterward, not something the draft bakes in by default.
+
+## Section bodies are narration only
+
+**No bracketed cues of any kind inside a section's text — no `[VISUAL NOTE: ...]`, no inline editorial asides, nothing but what gets spoken.** Two things used to live inline in past scripts and no longer do:
+- **Visual cues** — don't insert them at all. The Visual Planning skill now reads the pure narration on its own and originates every visual idea itself; it no longer expects pre-seeded hints in the script.
+- **Editorial/creative-judgment flags** (e.g. "confirm this framing reads as balanced," a note about a naming inconsistency, a sensitivity call worth a second look) — these still matter, but they go in the **Notes** section at the top of the script file, not inline in the section where they came up. Reference the section name if it helps the user find the spot ("Section 3 — the government-justification paragraph...").
 
 ## Process
 
 1. Draft section by section, following the outline's structure and section sizing — don't pad a section that the topic doesn't support, don't rush one that needs room.
 2. Every factual claim in the narration should trace back to something in the research brief. Do not introduce new facts not present in the research — if something is needed and missing, flag it rather than inventing it.
-3. Insert lightweight `[VISUAL NOTE: ...]` placeholders inline where a visual is clearly implied by the narration — full detail comes later from the Visual Planning skill, this is just a marker so nothing gets lost.
-4. Check terminology against `GLOSSARY.md` as you go. If a new recurring term comes up that isn't in the glossary, propose a rendering and flag it for the user's approval rather than silently deciding.
+3. Check terminology against `GLOSSARY.md` as you go. If a new recurring term comes up that isn't in the glossary, propose a rendering and flag it for the user's approval rather than silently deciding.
+4. Any editorial or creative-judgment flag goes into the **Notes** section at the top of the script — not inline, not scattered through the sections. Collect these as you draft rather than only at the end.
 5. At the end, compile a **"Claims requiring fact-check"** list — every number, date, quote, and causal claim stated as fact. This feeds directly into the Fact-Checking skill.
-6. Self-check against the Style Guide's "Things to avoid" list before presenting the draft — academic tone, political endorsement, unverified claims stated as fact, clickbait mismatch.
+6. Self-check against the Style Guide's "Things to avoid" list before presenting the draft — academic tone, political endorsement, unverified claims stated as fact, clickbait mismatch, and a stance or opinion creeping into the narration on any topic, sensitive-looking or not.
 
 ## Output
 
@@ -40,5 +47,5 @@ Read, every time (don't rely on memory from a previous session):
 
 ## Notes
 
-- The AI drafts; the user makes final wording, angle, and opinion calls. Present the draft as a draft — flag places where a creative or editorial judgment call is needed rather than silently picking a stance on a contested point.
+- The AI drafts; the user makes final wording, angle, and opinion calls. Present the draft as a draft — flag places where a creative or editorial judgment call is needed rather than silently picking a stance on a contested point. These flags live in the script's own **Notes** section (see above), not inline.
 - Don't force every script into the same rhythm. A structure with six tight sections should read differently paced than one with three long sections — let the outline's shape carry through into the prose.
