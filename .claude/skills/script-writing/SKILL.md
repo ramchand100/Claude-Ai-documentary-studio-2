@@ -32,6 +32,18 @@ Read, every time (don't rely on memory from a previous session):
 - **Visual cues** — don't insert them at all. The Visual Planning skill now reads the pure narration on its own and originates every visual idea itself; it no longer expects pre-seeded hints in the script.
 - **Editorial/creative-judgment flags** (e.g. "confirm this framing reads as balanced," a note about a naming inconsistency, a sensitivity call worth a second look) — these still matter, but they go in the **Notes** section at the top of the script file, not inline in the section where they came up. Reference the section name if it helps the user find the spot ("Section 3 — the government-justification paragraph...").
 
+## Every section transition needs a verbal bridge
+
+**Never end one section and open the next with a bare fact or date and no connecting language.** Now that visual cues no longer live in the script, there's nothing left to paper over a rough seam — the narration itself has to carry the listener from one section to the next. A transition is not acceptable if it would confuse someone hearing it read aloud with no visual cut to signal a scene change.
+
+A working bridge is usually one of:
+- A connecting phrase ("kuch hafton baad," "lekin," "aur phir") that signals what kind of jump is happening (forward in time, a contrast, a consequence).
+- A cause-effect link — the previous section's ending state becomes this section's premise.
+- An explicit callback — the previous section promises something ("we'll see this number again"), and the next section delivers on it near its start, not buried three paragraphs in.
+- **Explicit time-order signposting whenever a section doesn't pick up chronologically where the last one left off** — if the next section jumps backward or sideways in time from where the narration just was, say so ("Kuch mahine pehle, is dauraan..." / "meanwhile, back in..."). A silent jump to an earlier date right after the previous section ended on a later one is genuinely disorienting, not just stylistically abrupt — catch this while drafting, not after.
+
+After drafting, reread just the last sentence of each section against the first sentence of the next, back to back, with the section headers removed — if it doesn't read as continuous spoken narration, add a bridge before moving on.
+
 ## Process
 
 1. Draft section by section, following the outline's structure and section sizing — don't pad a section that the topic doesn't support, don't rush one that needs room.
