@@ -2,7 +2,7 @@
 
 **Status:** Fact-Checked (see `/Research/EP004_nfc-award-formula-divides-money-factcheck.md`)
 **Structure type:** Custom — "Institutional Arc" (see `/Research/EP004_nfc-award-formula-divides-money-outline.md`)
-**Target length:** ~8 minutes (accepted shorter cut — see Notes)
+**Target length:** ~10 minutes (revised after the craft pass — see Notes)
 
 ## Style guide compliance
 - [x] Follows CHANNEL_STYLE_GUIDE.md voice/tone
@@ -15,7 +15,13 @@
 
 **Spine (from the outline):** A single formula, unchanged in any meaningful way since 2009, decides how much money each Pakistani province actually has — and the commission meant to finally update it has spent a year struggling to even hold its meetings.
 
-**Estimated runtime:** 927 words ÷ 140wpm ≈ 6.6 minutes raw narration, plus ~20% for pacing/breathing room ≈ **~8 minutes**. Below the outline's 12-16 minute target range — **user reviewed and accepted the ~8 minute cut rather than expanding research**, so this stands as the target length for this episode; not treated as a gap needing further action.
+**Estimated runtime (updated after the craft revision pass below):** 1,194 words ÷ 140wpm ≈ 8.5 minutes raw narration, plus ~20% for pacing/breathing room ≈ **~10 minutes**. Up from the previously-accepted ~8 minutes — the added analogies and narrative beats (below) grew the word count more than the numeric-density cut saved. Still under the outline's 12-16 minute range, and still a legitimate length — flagging the shift honestly rather than presenting it as unchanged. Your call whether ~10 minutes is fine or you'd rather trim.
+
+**Craft revision pass (user feedback):** four things added/fixed beyond the original draft:
+1. **A running joint-family analogy** now carries the "divisible pool" concept (Section 1), the population-only formula's fairness problem (Section 2), the 2015 freeze (Section 4), and the ending (Section 6) — one consistent concrete anchor instead of none, satisfying the style guide's "one concrete example" rule without inventing any unsourced statistic.
+2. **Spoken numeric density was cut, not added to** — despite the word count rising, distinct numbers actually spoken aloud dropped from 8 (42.5, 57.5, 82, 10.3, 5, 2.7, 47.5, 57.5) to 4 (42, 58, 82, 18). The 7th Award's formula now leads hard on population's 82 rupees and names the other three criteria without reciting their exact decimals aloud — those precise figures (10.3/5/2.7) stay in the fact-check table and belong on-screen as text/chart in the Visual Plan, not spoken.
+3. **An open loop was added at the end of Section 3** ("is deal ki ek sharat thi jo baad mein bohot maayne rakhegi") that Section 4 now pays off, giving the middle of the episode more pull instead of reading as a flat timeline.
+4. **The Ahsan Iqbal twist (Section 5) now gets its own beat** — split into two sentences with a setup line ("yeh mutalba sirf provinces ki taraf se nahi aaya") before the reveal, instead of being folded into one long sentence.
 
 **Editorial flags:**
 - **Section 2** states that the population-only formula (1973-2009) structurally benefited Punjab, since it's the most populous province. This is presented as a mathematical/structural fact (the same way the research brief notes Balochistan's low population structurally limits its share under that formula), not as a claim about Punjab's political position — Punjab's actual stance was never sourced and isn't stated anywhere in this script. Worth your read to confirm this distinction lands clearly rather than reading as an implied position.
@@ -40,15 +46,19 @@ Pakistan mein zyada tar tax federal government collect karti hai — sales tax, 
 
 Constitution ke Article 160 ke tehat, ek "divisible pool" banta hai — yaani woh tax revenue jo federal government aur chaaron provinces ke darmiyan baant diya jaata hai.
 
+Socho ek joint family ki tarah — ghar ke sab kamane wale apni kamai ek jagah jama karte hain, phir usi jama shuda paise se kiraya, ration, bijli ka bill nikalta hai. Federal aur provinces ke darmiyan bhi kuch aisa hi hota hai.
+
 Kitna hissa federal government ke paas rehta hai, aur kitna provinces ko jaata hai — aur phir provinces ke andar bhi, kaunsa province kitna paata hai — yeh sab tay karta hai ek commission: National Finance Commission, ya NFC.
 
-Aaj is waqt, har 100 rupaye ke divisible pool mein se, 42.5 rupaye federal government ke paas rehte hain, aur 57.5 rupaye provinces ko milte hain. Lekin yeh split hamesha aisa nahi tha — aur provinces ke beech baantne ka tareeqa toh aur bhi zyada badla hai.
+Agar hum ise 100 rupaye ke hisaab se dekhein — jitna bhi tax collect hota hai, us mein se har 100 rupaye mein se, 42 rupaye federal government ke paas rehte hain, aur baaki 58 rupaye provinces ko mil jaate hain. Lekin yeh split hamesha aisa nahi tha — aur provinces ke beech un 58 rupayon ko baantne ka tareeqa toh aur bhi zyada badla hai.
 
 ---
 
 ## Section 2 — One Number, One Formula
 
 1973 se lekar 2009 tak — chhattis saal — provinces ke beech yeh paisa baantne ka sirf ek tareeqa tha: population. Jis province ki abaadi zyada, uska hissa zyada. Bas.
+
+Yeh waisa hi hai jaise ek ghar ka kharcha sirf "ghar mein kitne log hain" ke hisaab se baanta jaye — chahe kisi ki kamai kam ho, kisi ki zaroorat zyada ho, ginti hi sab kuch tay kare.
 
 Yeh tareeqa Punjab ke liye faida mand tha, kyunke Punjab mulk ka sabse zyada abaadi wala province hai. Lekin Sindh, Khyber Pakhtunkhwa, aur Balochistan — teenon ka kehna tha ke sirf population dekhna theek nahi.
 
@@ -64,17 +74,21 @@ Phir, 2009 mein, ek cheez badli.
 
 Sindh ka kehna tha ke revenue collection ko bhi ginna chahiye — kyunke Sindh mulk ka sabse bara port hai, aur sabse zyada tax wahin se collect hota hai. Khyber Pakhtunkhwa chahta tha ke poverty aur backwardness ko wazan diya jaye. Balochistan chahta tha ke area bhi ginna chahiye — kyunke Balochistan area ke lihaz se mulk ka sabse bara province hai, lekin abaadi sabse kam.
 
-7th Award ne teenon demands ko maan liya. Naya formula bana: population 82 percent, poverty aur backwardness 10.3 percent, revenue collection 5 percent, aur area 2.7 percent. Provinces ka overall hissa bhi barh gaya — 47.5 percent se 57.5 percent tak.
+7th Award ne teenon demands ko maan liya. Agar hum wahi 100 rupaye dobara dekhein jo provinces ko milte hain — ab bhi in mein se sabse bara hissa, 82 rupaye, sirf population ki bunyad par tay hota hai. Lekin baaki 18 rupaye ab teen alag cheezon mein baante jaate hain: kitni gareebi hai, kitna tax collect hota hai, aur kitna area hai. Provinces ka apna overall hissa bhi barh gaya.
 
 Iske saath saath, ek aur guarantee bhi aayi: Constitution mein 18th Amendment ke zariye yeh tay hua ke koi bhi future NFC Award, kisi bhi province ka hissa, pichle award se kam nahi kar sakta.
+
+Yeh deal, apne waqt ke liye, ek badi kaamyabi thi. Lekin is deal ki ek sharat thi jo baad mein bohot maayne rakhegi.
 
 ---
 
 ## Section 4 — The Freeze
 
-Lekin is deal ki ek sharat thi — yeh sirf paanch saal ke liye thi.
+Woh sharat yeh thi: yeh deal sirf paanch saal ke liye thi.
 
 7th Award 2015 mein khatam ho gaya, matlab tab tak naye formula par consensus banana tha. Lekin ek dahai guzar gayi — aur koi naya award nahi bana.
+
+Yeh bilkul aisa hai jaise koi ghar apna maasik kharcha dus saal purane hisaab kitaab par chalaye — jabke is dauraan ghar mein zyada log aa chuke hon, ya kisi ki zaroorat badal chuki ho — lekin baithkar naya hisaab kabhi kiya hi na gaya ho.
 
 Isi dauraan, 2018 mein, sabiqa FATA, Khyber Pakhtunkhwa mein merge hua — jisne KP par nayi financial zimmedariyan daal din. Lekin formula wahi purana raha. Dus saal se zyada, mulk ek 2009 ke formula par chalta raha, jabke zameeni haqeeqatein badalti rahin.
 
@@ -90,7 +104,9 @@ Lekin shuru se hi rukawatein aayin. Pehla session postpone hua — Sindh mein us
 
 Federal side ka kehna tha ke unke officials ki foreign commitments ki wajah se dair hui. Provinces ka kehna tha ke federal representatives khud nahi aaye.
 
-Aur February 2026 mein, khud federal Planning Minister Ahsan Iqbal ne kaha ke NFC formula mein "comprehensive, forward-looking" islah ki zaroorat hai. Yaani yeh sirf provinces ka mutalba nahi tha — federal government ke andar bhi is par sawaal uthaya gaya.
+Aur yahan ek dilchasp baat hai: yeh mutalba sirf provinces ki taraf se nahi aaya.
+
+February 2026 mein, khud federal Planning Minister Ahsan Iqbal ne kaha ke NFC formula mein "comprehensive, forward-looking" islah ki zaroorat hai. Matlab — federal government khud bhi, apne andar se, is formula par sawaal utha rahi hai.
 
 ---
 
@@ -98,7 +114,9 @@ Aur February 2026 mein, khud federal Planning Minister Ahsan Iqbal ne kaha ke NF
 
 Toh yeh sab, aapke liye kyun matter karta hai?
 
-Kyunke yeh formula koi door ki, bureaucratic cheez nahi hai. Yeh seedha tay karta hai ke aapke province ke paas school, hospital, aur sadkon ke liye kitna paisa hai — sirf zaroorat ke hisaab se nahi, balke is formula ke hisaab se.
+Kyunke yeh formula koi door ki, bureaucratic cheez nahi hai. Yaad karein woh ghar ka misaal jo humne shuru mein diya tha — jahan sab kamane wale apni kamai jama karte hain, phir usi se kharcha nikalta hai. Agar us ghar ka hissa kam ho, toh kis cheez par asar padta hai? School ki fees par, ilaj par, ghar ki marammat par.
+
+Aapka province bhi wahi ghar hai — bas bahut bara. Yeh formula seedha tay karta hai ke us "ghar" ke paas school, hospital, aur sadkon ke liye kitna paisa hai — sirf zaroorat ke hisaab se nahi, balke is formula ke hisaab se.
 
 Researchers ne ek aur sawaal bhi uthaya hai: jab formula ka 82 percent hissa sirf population par depend karta hai, toh kya isse provinces ko apni abaadi kam karne ki koi wajah milti hai? Yeh sirf kisi ek province ka sawaal nahi — poore system ka sawaal hai.
 
