@@ -61,13 +61,33 @@ This is audio a host will actually say out loud — a sentence that looks fine a
 
 Fix what you find. This is a separate pass from the transition check above — that one is about section-to-section flow, this one is about sentence-level speakability.
 
+## Every percentage becomes a 100-rupee illustration
+
+**Never state a raw percentage in the narration without translating it.** A number like "57.5%" or "82%" means nothing felt to a listener on first hearing. Convert it into a concrete count out of 100 rupees — "har 100 rupaye mein se, 58 rupaye..." — every time a percentage would otherwise be spoken.
+
+**If more than one percentage-based split happens in the same episode, they must track ONE continuous 100 rupees — never restart at a fresh 100 for a subset of the first split.** This caused a real, shipped error once: a script split 100 rupees into 42/58, then later said "look at that same 100 rupees again" to describe a formula that actually only applied to the 58 — implying a second, unrelated 100 rupees existed. The fix is to always subdivide the *actual remaining amount*, explicitly reusing it: "un 100 rupayon mein se provinces ko 58 milte hain — ab inhi 58 rupayon mein se, [X] rupaye..." Before presenting a draft with more than one percentage split, trace the rupee amounts through by hand and confirm every subdivision is of a real, previously-stated amount, not a fresh 100.
+
+**When a percentage has been converted to a rupee amount already, don't reintroduce it as a raw percentage later in the same script** (e.g. a callback in the ending) — reuse the same rupee figures instead, so the audience isn't asked to re-translate the same fact twice.
+
+Rupee amounts derived this way (e.g. 58 × 82% ≈ 48) are simple arithmetic on an already-verified percentage, not a new independently-sourced claim — flag them as derived in the **Claims requiring fact-check** list, the same way EP001 flagged its dollar-to-rupee conversions.
+
+## Give every section a narrative reason to keep watching
+
+Two related habits, both aimed at the same problem — a script that's factually solid but reads as a flat timeline instead of a story:
+- **At least one open loop beyond the opening hook.** A section ending should sometimes set up something the next section pays off ("...ek sharat thi jo baad mein bohot maayne rakhegi"), not just conclude its own fact and move on. Not every section needs this, but an episode with zero open loops after the hook will feel like a list of facts in order.
+- **A genuinely surprising fact gets a setup sentence, not a subordinate clause.** If something breaks the reader's assumption (e.g. a federal official criticizing a policy the federal government owns), give it its own short lead-in ("aur yahan ek dilchasp baat hai...") before the reveal, rather than folding it into a longer sentence where it can slide past unnoticed.
+
+## Every abstract concept gets one concrete anchor, run consistently
+
+Per the Style Guide's "one concrete example" rule — but specifically: pick **one** person/company/household analogy per episode and run it through multiple sections (introduced early, called back at the ending), rather than several different one-off comparisons scattered through the draft. When the research doesn't have a real sourced example, an explicitly illustrative analogy (never presented as a real case, never inventing a specific fact or statistic) satisfies this rule.
+
 ## Process
 
 1. Draft section by section, following the outline's structure and section sizing — don't pad a section that the topic doesn't support, don't rush one that needs room.
 2. Every factual claim in the narration should trace back to something in the research brief. Do not introduce new facts not present in the research — if something is needed and missing, flag it rather than inventing it.
 3. Check terminology against `GLOSSARY.md` as you go. If a new recurring term comes up that isn't in the glossary, propose a rendering and flag it for the user's approval rather than silently deciding.
 4. Any editorial or creative-judgment flag goes into the **Notes** section at the top of the script — not inline, not scattered through the sections. Collect these as you draft rather than only at the end. Copy the outline's **spine** (one sentence) into Notes too, so the draft is checkable against its own throughline without opening the outline file separately.
-5. Run the runtime check and the read-aloud check (above) before presenting the draft.
+5. Run the runtime check, the read-aloud check, and the percentage/100-rupee continuity check (above) before presenting the draft.
 6. At the end, compile a **"Claims requiring fact-check"** list — every number, date, quote, and causal claim stated as fact. This feeds directly into the Fact-Checking skill.
 7. Self-check against the Style Guide's "Things to avoid" list before presenting the draft — academic tone, political endorsement, unverified claims stated as fact, clickbait mismatch, and a stance or opinion creeping into the narration on any topic, sensitive-looking or not.
 
