@@ -1,6 +1,6 @@
 # Script — EP005 — The Karachi Circular Railway: The Train That's Been "Coming Soon" for 30 Years
 
-**Status:** Draft
+**Status:** Fact-Checked (see `/Research/EP005_karachi-circular-railway-factcheck.md`)
 **Structure type:** Custom — "The Same Promise, Different Year" (see `/Research/EP005_karachi-circular-railway-outline.md`)
 **Target length:** 12-16 minutes (outline range)
 
@@ -9,7 +9,7 @@
 - [x] Terminology checked against GLOSSARY.md — four new institution acronyms proposed below, need your approval
 - [x] First 30 seconds hooks before defining anything
 - [x] Neutral on every claim and every topic — no stance or opinion baked into the narration beyond what's sourced
-- [ ] Fact-checked — not yet run through the Fact-Checking skill
+- [x] Fact-checked — 20 of 26 claims High confidence, 6 Medium (all already appropriately hedged/attributed in the script's own wording, no rewrites needed); see report. **Sensitivity Checklist still needs your manual pass.**
 
 ## Notes
 
