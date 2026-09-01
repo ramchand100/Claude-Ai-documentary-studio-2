@@ -15,7 +15,7 @@
 
 **Spine (from the outline):** A single formula, unchanged in any meaningful way since 2009, decides how much money each Pakistani province actually has — and the commission meant to finally update it has spent a year struggling to even hold its meetings.
 
-**Estimated runtime (updated after the per-province addition below):** 1,240 words ÷ 140wpm ≈ 8.9 minutes raw narration, plus ~20% for pacing/breathing room ≈ **~10.5 minutes**. Up slightly from the ~10 minutes previously noted — the per-province rupee breakdown (item 6 below) added ~34 words. Still comfortably under the outline's 12-16 minute range. Your call whether ~10.5 minutes is fine or you'd rather trim.
+**Estimated runtime (updated after the accessibility pass below):** 1,273 words ÷ 140wpm ≈ 9.1 minutes raw narration, plus ~20% for pacing/breathing room ≈ **~11 minutes**. Up slightly from ~10.5 minutes — the plain-language anchors for "18th Amendment" and "FATA," and splitting the dense sentences in Sections 3 and 5 into shorter beats, added a modest amount of length. Still comfortably under the outline's 12-16 minute range.
 
 **Craft revision pass (user feedback):** five things added/fixed beyond the original draft:
 1. **A running joint-family analogy** now carries the "divisible pool" concept (Section 1), the population-only formula's fairness problem (Section 2), the 2015 freeze (Section 4), and the ending (Section 6) — one consistent concrete anchor instead of none, satisfying the style guide's "one concrete example" rule without inventing any unsourced statistic.
@@ -24,6 +24,11 @@
 4. **An open loop was added at the end of Section 3** ("is deal ki ek sharat thi jo baad mein bohot maayne rakhegi") that Section 4 now pays off, giving the middle of the episode more pull instead of reading as a flat timeline.
 5. **The Ahsan Iqbal twist (Section 5) now gets its own beat** — split into two sentences with a setup line ("yeh mutalba sirf provinces ki taraf se nahi aaya") before the reveal, instead of being folded into one long sentence.
 6. **Per-province breakdown of the 58 rupees added to Section 3.** The original draft explained the 7th Award's *criteria* (population/poverty/revenue/area) but never showed the *resulting* per-province shares — the user flagged this gap directly. Researched and added: Punjab ≈30 rupaye, Sindh ≈14, KP ≈9, Balochistan ≈5, out of the same 58-rupee provincial pool already established in Section 1/3 (continuous-100-rupee rule maintained, no fresh 100 introduced). Sourced from the 7th Award's actual provincial percentages (51.74% / 24.55% / 14.62% / 9.09%), cross-verified across two independent sources (an aggregated search citing Business Recorder/PIDE, and a direct read of a Dawn article). The rupee figures are arithmetic on those percentages applied to 58 — flagged as derived in the Claims list below, with KP's figure specifically rounded up from 8.48 to 9 so the four amounts sum to exactly 58.
+7. **Accessibility pass — read against a listener with zero prior civics/fiscal background** (farmer, student, rickshaw driver test, at the user's request):
+   - **Section 3 restructured.** It previously stacked three number-sets back to back (58→48/10 criteria weighting, then 58→30/14/9/5 per-province, then the 18th Amendment) with no breathing room — genuinely overloaded on a single listen. Reordered so the concrete per-province numbers (the payoff a viewer actually cares about) land immediately after "teenon demands ko maan liya," then a spoken bridge question ("Yeh numbers kahan se aate hain?") introduces the drier formula-weighting explanation as its own beat, and the 18th Amendment guarantee gets a fully separated paragraph.
+   - **"18th Amendment" given a one-clause plain-language anchor** ("ek aisi tarmeem jisay 18th Amendment kaha jaata hai, jisne provinces ko aur zyada ikhtiyar diya") instead of being named with zero context, since a listener without civics background has no anchor for why a constitutional amendment matters here.
+   - **"FATA" (Section 4) given a one-clause anchor** ("yaani mulk ke qabaili ilaqe jo pehle alag tarah se chalaye jaate thay") instead of being referenced as if already known.
+   - **Section 5's opening sentence split and de-jargoned.** It previously stacked a date, the President's name, "11th National Finance Commission," the Finance Minister's name and title, and "chaaron provinces ke finance ministers" into one sentence — split into two. "Technical working groups" (bureaucratic, untranslated) swapped for the plainer "committees" throughout the section.
 
 **Editorial flags:**
 - **Section 2** states that the population-only formula (1973-2009) structurally benefited Punjab, since it's the most populous province. This is presented as a mathematical/structural fact (the same way the research brief notes Balochistan's low population structurally limits its share under that formula), not as a claim about Punjab's political position — Punjab's actual stance was never sourced and isn't stated anywhere in this script. Worth your read to confirm this distinction lands clearly rather than reading as an implied position.
@@ -76,11 +81,11 @@ Phir, 2009 mein, ek cheez badli.
 
 Sindh ka kehna tha ke revenue collection ko bhi ginna chahiye — kyunke Sindh mulk ka sabse bara port hai, aur sabse zyada tax wahin se collect hota hai. Khyber Pakhtunkhwa chahta tha ke poverty aur backwardness ko wazan diya jaye. Balochistan chahta tha ke area bhi ginna chahiye — kyunke Balochistan area ke lihaz se mulk ka sabse bara province hai, lekin abaadi sabse kam.
 
-7th Award ne teenon demands ko maan liya. Yaad rahe — un 100 rupayon mein se provinces ko 58 milte hain. Ab inhi 58 rupayon mein se, sabse bara hissa — takreeban 48 rupaye — ab bhi sirf population ki bunyad par tay hota hai. Baaki takreeban 10 rupaye teen alag cheezon mein baante jaate hain: kitni gareebi hai, kitna tax collect hota hai, aur kitna area hai. Provinces ka apna overall hissa bhi barh gaya.
+7th Award ne teenon demands ko maan liya. Yaad rahe — un 100 rupayon mein se provinces ko 58 milte hain. Ab isi naye formula ka seedha asar dekhein: unhi 58 rupayon mein se, Punjab ko takreeban 30 rupaye milte hain, Sindh ko 14, Khyber Pakhtunkhwa ko 9, aur Balochistan ko 5.
 
-Aur jab yeh formula har province par lagaya jaata hai, toh unhi 58 rupayon mein se: Punjab ko takreeban 30 rupaye milte hain, Sindh ko 14, Khyber Pakhtunkhwa ko 9, aur Balochistan ko 5.
+Yeh numbers kahan se aate hain? Inhi 58 rupayon ka sabse bara hissa — takreeban 48 rupaye — ab bhi sirf population ki bunyad par tay hota hai. Baaki takreeban 10 rupaye, teen alag cheezon mein baante jaate hain: kitni gareebi hai, kitna tax collect hota hai, aur kitna area hai. Provinces ka apna overall hissa bhi barh gaya.
 
-Iske saath saath, ek aur guarantee bhi aayi: Constitution mein 18th Amendment ke zariye yeh tay hua ke koi bhi future NFC Award, kisi bhi province ka hissa, pichle award se kam nahi kar sakta.
+Iske saath saath, ek aur guarantee bhi aayi — ek aisi tarmeem jisay 18th Amendment kaha jaata hai, jisne provinces ko aur zyada ikhtiyar diya. Usi tarmeem ke zariye yeh tay hua ke koi bhi future NFC Award, kisi bhi province ka hissa, pichle award se kam nahi kar sakta.
 
 Yeh deal, apne waqt ke liye, ek badi kaamyabi thi. Lekin is deal ki ek sharat thi jo baad mein bohot maayne rakhegi.
 
@@ -94,7 +99,7 @@ Woh sharat yeh thi: yeh deal sirf paanch saal ke liye thi.
 
 Yeh bilkul aisa hai jaise koi ghar apna maasik kharcha dus saal purane hisaab kitaab par chalaye — jabke is dauraan ghar mein zyada log aa chuke hon, ya kisi ki zaroorat badal chuki ho — lekin baithkar naya hisaab kabhi kiya hi na gaya ho.
 
-Isi dauraan, 2018 mein, sabiqa FATA, Khyber Pakhtunkhwa mein merge hua — jisne KP par nayi financial zimmedariyan daal din. Lekin formula wahi purana raha. Dus saal se zyada, mulk ek 2009 ke formula par chalta raha, jabke zameeni haqeeqatein badalti rahin.
+Isi dauraan, 2018 mein, sabiqa FATA — yaani mulk ke qabaili ilaqe jo pehle alag tarah se chalaye jaate thay — Khyber Pakhtunkhwa mein merge hue, jisne KP par nayi financial zimmedariyan daal din. Lekin formula wahi purana raha. Dus saal se zyada, mulk ek 2009 ke formula par chalta raha, jabke zameeni haqeeqatein badalti rahin.
 
 ---
 
@@ -102,9 +107,9 @@ Isi dauraan, 2018 mein, sabiqa FATA, Khyber Pakhtunkhwa mein merge hua — jisne
 
 Phir, 2025 mein, ek naye commission ki koshish shuru hui.
 
-22 August 2025 ko, President Asif Ali Zardari ne 11th National Finance Commission banayi — Finance Minister Muhammad Aurangzeb iske chairman the, aur chaaron provinces ke finance ministers ismein shamil kiye gaye.
+22 August 2025 ko, President Asif Ali Zardari ne ek naya commission banaya — 11th National Finance Commission. Iske chairman thay Finance Minister Muhammad Aurangzeb, aur chaaron provinces ke finance ministers bhi ismein shamil thay.
 
-Lekin shuru se hi rukawatein aayin. Pehla session postpone hua — Sindh mein us waqt seelab ki wajah se. Commission ki pehli asal meeting December 2025 mein hui — teen mahine baad. Aath technical working groups banayi gayin, har ek ko alag masla dekhna tha. Lekin February 2026 tak ki information ke mutabiq, sirf do groups ne ek baar bhi meeting ki thi. Baaki che groups ne kabhi meeting hi nahi ki.
+Lekin shuru se hi rukawatein aayin. Pehla session postpone hua — Sindh mein us waqt seelab ki wajah se. Commission ki pehli asal meeting December 2025 mein hui — teen mahine baad. Aath alag committees banayi gayin, har ek ko koi ek masla dekhna tha. Lekin February 2026 tak ki information ke mutabiq, sirf do committees ne ek baar bhi meeting ki thi. Baaki che committees ne kabhi meeting hi nahi ki.
 
 Federal side ka kehna tha ke unke officials ki foreign commitments ki wajah se dair hui. Provinces ka kehna tha ke federal representatives khud nahi aaye.
 
@@ -157,6 +162,8 @@ Agar yeh video aapko is formula ke peeche ki kahani samjhaata hai, toh channel k
 19. Structural point: population-heavy formula and potential incentive effects on population growth (attributed to research literature, not stated as settled fact)
 20. 7th Award's actual per-province shares of the divisible pool: Punjab 51.74%, Sindh 24.55%, KP 14.62%, Balochistan 9.09% — sourced and cross-verified across two independent sources (aggregated search citing Business Recorder/PIDE; direct read of a Dawn article), not yet run through the formal fact-check pass above (this claim postdates that report)
 21. Script expresses claim #20 as rupee amounts out of the 58-rupee provincial pool: Punjab ≈30, Sindh ≈14, KP ≈9, Balochistan ≈5 — **derived by arithmetic (58 × each percentage) from the verified percentages in #20, not an independently sourced claim.** Straight rounding gives 30/14/8/5 = 57; KP's figure was rounded up from 8.48 to 9 so the total sums to exactly 58 — flagging this rounding adjustment transparently.
+22. General characterization added in Section 3's new 18th Amendment anchor line: the 18th Amendment (2010) expanded provincial autonomy generally, beyond just the NFC non-reduction clause already covered by claim #10 — widely-established historical fact (abolition of the Concurrent List, devolution of subjects to provinces), Tier 3+ corroboration, not separately re-verified in this pass but low risk
+23. General characterization added in Section 4's new FATA anchor line: FATA was administered under a distinct legal/governance system before its 2018 merger into KP — widely-established historical fact, not separately re-verified in this pass but low risk
 
 **Deliberately excluded, per the outline's guardrails:** Punjab's explicit position (never sourced — the script states only the structural/mathematical effect of the population formula, not a political stance); Balochistan's specific proposed formula numbers (82%→57%, 2.7%→15% — unconfirmed, left out entirely rather than hedged).
 
