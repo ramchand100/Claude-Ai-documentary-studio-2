@@ -9,13 +9,13 @@
 - [x] Terminology checked against GLOSSARY.md — two new terms proposed below, need your approval
 - [x] First 30 seconds hooks before defining anything
 - [x] Neutral on every claim and every topic — no stance or opinion baked into the narration beyond what's sourced
-- [x] Fact-checked — 17 of 19 claims High confidence (Article 160's exact text confirmed directly), 2 flagged Medium pending a second-source check; see report
+- [x] Fact-checked — 17 of 19 claims High confidence (Article 160's exact text confirmed directly), 2 flagged Medium pending a second-source check; see report. **Claims #20-21 (per-province breakdown) were added after the fact-check report and aren't in it yet** — sourced and cross-verified per the Claims list below, but should get a formal pass before this episode is marked fully checked.
 
 ## Notes
 
 **Spine (from the outline):** A single formula, unchanged in any meaningful way since 2009, decides how much money each Pakistani province actually has — and the commission meant to finally update it has spent a year struggling to even hold its meetings.
 
-**Estimated runtime (updated after the craft revision pass below):** 1,206 words ÷ 140wpm ≈ 8.6 minutes raw narration, plus ~20% for pacing/breathing room ≈ **~10 minutes**. Up from the previously-accepted ~8 minutes — the added analogies and narrative beats (below) grew the word count more than the numeric-density cut saved. Still under the outline's 12-16 minute range, and still a legitimate length — flagging the shift honestly rather than presenting it as unchanged. Your call whether ~10 minutes is fine or you'd rather trim.
+**Estimated runtime (updated after the per-province addition below):** 1,240 words ÷ 140wpm ≈ 8.9 minutes raw narration, plus ~20% for pacing/breathing room ≈ **~10.5 minutes**. Up slightly from the ~10 minutes previously noted — the per-province rupee breakdown (item 6 below) added ~34 words. Still comfortably under the outline's 12-16 minute range. Your call whether ~10.5 minutes is fine or you'd rather trim.
 
 **Craft revision pass (user feedback):** five things added/fixed beyond the original draft:
 1. **A running joint-family analogy** now carries the "divisible pool" concept (Section 1), the population-only formula's fairness problem (Section 2), the 2015 freeze (Section 4), and the ending (Section 6) — one consistent concrete anchor instead of none, satisfying the style guide's "one concrete example" rule without inventing any unsourced statistic.
@@ -23,6 +23,7 @@
 3. **Spoken numeric density was still cut relative to the original draft** — distinct numbers spoken dropped from 8 (42.5, 57.5, 82, 10.3, 5, 2.7, 47.5, 57.5) to 4 (42, 58, 48, 10), all part of one continuous, non-contradictory thread. The exact decimals (10.3/5/2.7) stay in the fact-check table for on-screen text/chart in the Visual Plan, not spoken.
 4. **An open loop was added at the end of Section 3** ("is deal ki ek sharat thi jo baad mein bohot maayne rakhegi") that Section 4 now pays off, giving the middle of the episode more pull instead of reading as a flat timeline.
 5. **The Ahsan Iqbal twist (Section 5) now gets its own beat** — split into two sentences with a setup line ("yeh mutalba sirf provinces ki taraf se nahi aaya") before the reveal, instead of being folded into one long sentence.
+6. **Per-province breakdown of the 58 rupees added to Section 3.** The original draft explained the 7th Award's *criteria* (population/poverty/revenue/area) but never showed the *resulting* per-province shares — the user flagged this gap directly. Researched and added: Punjab ≈30 rupaye, Sindh ≈14, KP ≈9, Balochistan ≈5, out of the same 58-rupee provincial pool already established in Section 1/3 (continuous-100-rupee rule maintained, no fresh 100 introduced). Sourced from the 7th Award's actual provincial percentages (51.74% / 24.55% / 14.62% / 9.09%), cross-verified across two independent sources (an aggregated search citing Business Recorder/PIDE, and a direct read of a Dawn article). The rupee figures are arithmetic on those percentages applied to 58 — flagged as derived in the Claims list below, with KP's figure specifically rounded up from 8.48 to 9 so the four amounts sum to exactly 58.
 
 **Editorial flags:**
 - **Section 2** states that the population-only formula (1973-2009) structurally benefited Punjab, since it's the most populous province. This is presented as a mathematical/structural fact (the same way the research brief notes Balochistan's low population structurally limits its share under that formula), not as a claim about Punjab's political position — Punjab's actual stance was never sourced and isn't stated anywhere in this script. Worth your read to confirm this distinction lands clearly rather than reading as an implied position.
@@ -76,6 +77,8 @@ Phir, 2009 mein, ek cheez badli.
 Sindh ka kehna tha ke revenue collection ko bhi ginna chahiye — kyunke Sindh mulk ka sabse bara port hai, aur sabse zyada tax wahin se collect hota hai. Khyber Pakhtunkhwa chahta tha ke poverty aur backwardness ko wazan diya jaye. Balochistan chahta tha ke area bhi ginna chahiye — kyunke Balochistan area ke lihaz se mulk ka sabse bara province hai, lekin abaadi sabse kam.
 
 7th Award ne teenon demands ko maan liya. Yaad rahe — un 100 rupayon mein se provinces ko 58 milte hain. Ab inhi 58 rupayon mein se, sabse bara hissa — takreeban 48 rupaye — ab bhi sirf population ki bunyad par tay hota hai. Baaki takreeban 10 rupaye teen alag cheezon mein baante jaate hain: kitni gareebi hai, kitna tax collect hota hai, aur kitna area hai. Provinces ka apna overall hissa bhi barh gaya.
+
+Aur jab yeh formula har province par lagaya jaata hai, toh unhi 58 rupayon mein se: Punjab ko takreeban 30 rupaye milte hain, Sindh ko 14, Khyber Pakhtunkhwa ko 9, aur Balochistan ko 5.
 
 Iske saath saath, ek aur guarantee bhi aayi: Constitution mein 18th Amendment ke zariye yeh tay hua ke koi bhi future NFC Award, kisi bhi province ka hissa, pichle award se kam nahi kar sakta.
 
@@ -152,6 +155,8 @@ Agar yeh video aapko is formula ke peeche ki kahani samjhaata hai, toh channel k
 17. Federal/provincial mutual blame for delays
 18. Planning Minister Ahsan Iqbal's February 2026 public call for NFC reform
 19. Structural point: population-heavy formula and potential incentive effects on population growth (attributed to research literature, not stated as settled fact)
+20. 7th Award's actual per-province shares of the divisible pool: Punjab 51.74%, Sindh 24.55%, KP 14.62%, Balochistan 9.09% — sourced and cross-verified across two independent sources (aggregated search citing Business Recorder/PIDE; direct read of a Dawn article), not yet run through the formal fact-check pass above (this claim postdates that report)
+21. Script expresses claim #20 as rupee amounts out of the 58-rupee provincial pool: Punjab ≈30, Sindh ≈14, KP ≈9, Balochistan ≈5 — **derived by arithmetic (58 × each percentage) from the verified percentages in #20, not an independently sourced claim.** Straight rounding gives 30/14/8/5 = 57; KP's figure was rounded up from 8.48 to 9 so the total sums to exactly 58 — flagging this rounding adjustment transparently.
 
 **Deliberately excluded, per the outline's guardrails:** Punjab's explicit position (never sourced — the script states only the structural/mathematical effect of the population formula, not a political stance); Balochistan's specific proposed formula numbers (82%→57%, 2.7%→15% — unconfirmed, left out entirely rather than hedged).
 
