@@ -71,6 +71,15 @@ Fix what you find. This is a separate pass from the transition check above — t
 
 Rupee amounts derived this way (e.g. 58 × 82% ≈ 48) are simple arithmetic on an already-verified percentage, not a new independently-sourced claim — flag them as derived in the **Claims requiring fact-check** list, the same way EP001 flagged its dollar-to-rupee conversions.
 
+## Test against a listener with zero background on the topic
+
+A distinct pass from the read-aloud check above — that one is about speakability, this one is about whether a first-time listener with no prior civics/economics knowledge can actually follow the content. Reread the draft as a farmer, a student, or a rickshaw driver — someone who's never heard of the institution, law, or mechanism this episode is about — would hear it. Two specific failure modes to catch:
+
+- **Never stack more than one number-set in the same short span without a breath between them.** A section that both explains a mechanism's internal weighting (e.g. "48 of those 58 rupees come from population") *and* its resulting real-world outcome (e.g. "so Punjab gets 30, Sindh gets 14...") is presenting two separate numeric ideas — even if every number is individually correct and derived honestly, stacking both sets back-to-back overloads a listener on one pass. Lead with whichever number-set is more concrete and relatable to the viewer's own stake (what their province/city/household actually gets), and follow with the more abstract mechanism as a second, clearly bridged beat ("Yeh numbers kahan se aate hain?" or similar) — not the reverse, and not both crammed into one paragraph.
+- **Never stack more than one named official, institution, or title into a single sentence.** A sentence combining a date, a person's name and title, an institution's full formal name, and a second person's name and title reads as a news bulletin, not a story, and a listener without a mental model for these roles loses the thread. Split across at least two sentences — one to establish the institution/event, a second for who's involved.
+
+Per the Style Guide, any named institution, law, amendment, or historical event referenced as if already known (an amendment, a merged territory, a commission) needs a one-clause plain-language anchor on first mention, the same as a jargon term would get.
+
 ## Give every section a narrative reason to keep watching
 
 Two related habits, both aimed at the same problem — a script that's factually solid but reads as a flat timeline instead of a story:
@@ -87,7 +96,7 @@ Per the Style Guide's "one concrete example" rule — but specifically: pick **o
 2. Every factual claim in the narration should trace back to something in the research brief. Do not introduce new facts not present in the research — if something is needed and missing, flag it rather than inventing it.
 3. Check terminology against `GLOSSARY.md` as you go. If a new recurring term comes up that isn't in the glossary, propose a rendering and flag it for the user's approval rather than silently deciding.
 4. Any editorial or creative-judgment flag goes into the **Notes** section at the top of the script — not inline, not scattered through the sections. Collect these as you draft rather than only at the end. Copy the outline's **spine** (one sentence) into Notes too, so the draft is checkable against its own throughline without opening the outline file separately.
-5. Run the runtime check, the read-aloud check, and the percentage/100-rupee continuity check (above) before presenting the draft.
+5. Run the runtime check, the read-aloud check, the percentage/100-rupee continuity check, and the zero-background-listener check (above) before presenting the draft.
 6. At the end, compile a **"Claims requiring fact-check"** list — every number, date, quote, and causal claim stated as fact. This feeds directly into the Fact-Checking skill.
 7. Self-check against the Style Guide's "Things to avoid" list before presenting the draft — academic tone, political endorsement, unverified claims stated as fact, clickbait mismatch, and a stance or opinion creeping into the narration on any topic, sensitive-looking or not.
 
