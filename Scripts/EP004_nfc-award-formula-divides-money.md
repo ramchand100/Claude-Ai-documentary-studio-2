@@ -15,13 +15,14 @@
 
 **Spine (from the outline):** A single formula, unchanged in any meaningful way since 2009, decides how much money each Pakistani province actually has — and the commission meant to finally update it has spent a year struggling to even hold its meetings.
 
-**Estimated runtime (updated after the craft revision pass below):** 1,194 words ÷ 140wpm ≈ 8.5 minutes raw narration, plus ~20% for pacing/breathing room ≈ **~10 minutes**. Up from the previously-accepted ~8 minutes — the added analogies and narrative beats (below) grew the word count more than the numeric-density cut saved. Still under the outline's 12-16 minute range, and still a legitimate length — flagging the shift honestly rather than presenting it as unchanged. Your call whether ~10 minutes is fine or you'd rather trim.
+**Estimated runtime (updated after the craft revision pass below):** 1,206 words ÷ 140wpm ≈ 8.6 minutes raw narration, plus ~20% for pacing/breathing room ≈ **~10 minutes**. Up from the previously-accepted ~8 minutes — the added analogies and narrative beats (below) grew the word count more than the numeric-density cut saved. Still under the outline's 12-16 minute range, and still a legitimate length — flagging the shift honestly rather than presenting it as unchanged. Your call whether ~10 minutes is fine or you'd rather trim.
 
-**Craft revision pass (user feedback):** four things added/fixed beyond the original draft:
+**Craft revision pass (user feedback):** five things added/fixed beyond the original draft:
 1. **A running joint-family analogy** now carries the "divisible pool" concept (Section 1), the population-only formula's fairness problem (Section 2), the 2015 freeze (Section 4), and the ending (Section 6) — one consistent concrete anchor instead of none, satisfying the style guide's "one concrete example" rule without inventing any unsourced statistic.
-2. **Spoken numeric density was cut, not added to** — despite the word count rising, distinct numbers actually spoken aloud dropped from 8 (42.5, 57.5, 82, 10.3, 5, 2.7, 47.5, 57.5) to 4 (42, 58, 82, 18). The 7th Award's formula now leads hard on population's 82 rupees and names the other three criteria without reciting their exact decimals aloud — those precise figures (10.3/5/2.7) stay in the fact-check table and belong on-screen as text/chart in the Visual Plan, not spoken.
-3. **An open loop was added at the end of Section 3** ("is deal ki ek sharat thi jo baad mein bohot maayne rakhegi") that Section 4 now pays off, giving the middle of the episode more pull instead of reading as a flat timeline.
-4. **The Ahsan Iqbal twist (Section 5) now gets its own beat** — split into two sentences with a setup line ("yeh mutalba sirf provinces ki taraf se nahi aaya") before the reveal, instead of being folded into one long sentence.
+2. **One continuous 100-rupee number now runs through the whole episode, not two separate ones.** The original revision restarted at "100 rupees" for the provincial formula in Section 3, which wrongly implied it was the same 100 rupees as the federal/provincial split — but provinces only actually receive 58 of those 100. **Caught by the user before it shipped.** Fixed: Section 3 now explicitly subdivides the *same 58 rupees* from Section 1 ("un 100 rupayon mein se provinces ko 58 milte hain... inhi 58 rupayon mein se, takreeban 48 rupaye population ki bunyad par..."), and Section 6's callback reuses the 48/58 figures instead of restating "82 percent" as a fresh number. **~48 and ~10 are derived by arithmetic from the already-verified 82% figure applied to 58 (not 100)** — flagging this derivation explicitly, same as EP001's rupee-conversion precedent, since it's simple math on verified figures rather than a new independently-sourced claim.
+3. **Spoken numeric density was still cut relative to the original draft** — distinct numbers spoken dropped from 8 (42.5, 57.5, 82, 10.3, 5, 2.7, 47.5, 57.5) to 4 (42, 58, 48, 10), all part of one continuous, non-contradictory thread. The exact decimals (10.3/5/2.7) stay in the fact-check table for on-screen text/chart in the Visual Plan, not spoken.
+4. **An open loop was added at the end of Section 3** ("is deal ki ek sharat thi jo baad mein bohot maayne rakhegi") that Section 4 now pays off, giving the middle of the episode more pull instead of reading as a flat timeline.
+5. **The Ahsan Iqbal twist (Section 5) now gets its own beat** — split into two sentences with a setup line ("yeh mutalba sirf provinces ki taraf se nahi aaya") before the reveal, instead of being folded into one long sentence.
 
 **Editorial flags:**
 - **Section 2** states that the population-only formula (1973-2009) structurally benefited Punjab, since it's the most populous province. This is presented as a mathematical/structural fact (the same way the research brief notes Balochistan's low population structurally limits its share under that formula), not as a claim about Punjab's political position — Punjab's actual stance was never sourced and isn't stated anywhere in this script. Worth your read to confirm this distinction lands clearly rather than reading as an implied position.
@@ -74,7 +75,7 @@ Phir, 2009 mein, ek cheez badli.
 
 Sindh ka kehna tha ke revenue collection ko bhi ginna chahiye — kyunke Sindh mulk ka sabse bara port hai, aur sabse zyada tax wahin se collect hota hai. Khyber Pakhtunkhwa chahta tha ke poverty aur backwardness ko wazan diya jaye. Balochistan chahta tha ke area bhi ginna chahiye — kyunke Balochistan area ke lihaz se mulk ka sabse bara province hai, lekin abaadi sabse kam.
 
-7th Award ne teenon demands ko maan liya. Agar hum wahi 100 rupaye dobara dekhein jo provinces ko milte hain — ab bhi in mein se sabse bara hissa, 82 rupaye, sirf population ki bunyad par tay hota hai. Lekin baaki 18 rupaye ab teen alag cheezon mein baante jaate hain: kitni gareebi hai, kitna tax collect hota hai, aur kitna area hai. Provinces ka apna overall hissa bhi barh gaya.
+7th Award ne teenon demands ko maan liya. Yaad rahe — un 100 rupayon mein se provinces ko 58 milte hain. Ab inhi 58 rupayon mein se, sabse bara hissa — takreeban 48 rupaye — ab bhi sirf population ki bunyad par tay hota hai. Baaki takreeban 10 rupaye teen alag cheezon mein baante jaate hain: kitni gareebi hai, kitna tax collect hota hai, aur kitna area hai. Provinces ka apna overall hissa bhi barh gaya.
 
 Iske saath saath, ek aur guarantee bhi aayi: Constitution mein 18th Amendment ke zariye yeh tay hua ke koi bhi future NFC Award, kisi bhi province ka hissa, pichle award se kam nahi kar sakta.
 
@@ -118,7 +119,7 @@ Kyunke yeh formula koi door ki, bureaucratic cheez nahi hai. Yaad karein woh gha
 
 Aapka province bhi wahi ghar hai — bas bahut bara. Yeh formula seedha tay karta hai ke us "ghar" ke paas school, hospital, aur sadkon ke liye kitna paisa hai — sirf zaroorat ke hisaab se nahi, balke is formula ke hisaab se.
 
-Researchers ne ek aur sawaal bhi uthaya hai: jab formula ka 82 percent hissa sirf population par depend karta hai, toh kya isse provinces ko apni abaadi kam karne ki koi wajah milti hai? Yeh sirf kisi ek province ka sawaal nahi — poore system ka sawaal hai.
+Researchers ne ek aur sawaal bhi uthaya hai: jab un 58 rupayon ka itna bara hissa — takreeban 48 rupaye — sirf population par depend karta hai, toh kya isse provinces ko apni abaadi kam karne ki koi wajah milti hai? Yeh sirf kisi ek province ka sawaal nahi — poore system ka sawaal hai.
 
 Yeh formula, jo 2009 mein banaya gaya tha, aaj bhi wahi hai. Aur jab tak agla consensus nahi banta, yehi chalta rahega.
 
@@ -134,11 +135,11 @@ Agar yeh video aapko is formula ke peeche ki kahani samjhaata hai, toh channel k
 
 1. Article 160 establishes the divisible pool between federal government and provinces
 2. NFC decides both the federal-provincial split and the inter-provincial split
-3. Current divisible pool split: 42.5% federal / 57.5% provincial
+3. Current divisible pool split: 42.5% federal / 57.5% provincial — **script rounds to 42/58 rupees for spoken delivery, per style guide**
 4. 1973-2009: population was the sole criterion for inter-provincial distribution
 5. 2001 and 2006 NFC commissions failed to reach consensus, no awards issued
 6. 7th NFC Award signed 30 December 2009
-7. 7th Award formula: population 82%, poverty/backwardness 10.3%, revenue collection 5%, area 2.7%
+7. 7th Award formula: population 82%, poverty/backwardness 10.3%, revenue collection 5%, area 2.7% — **script expresses this as ~48 of the provinces' 58 rupees going to population, ~10 rupees to the other three combined; these rupee figures are derived by arithmetic (58 × 0.82 ≈ 48, remainder ≈ 10) from the verified percentages, not an independently sourced claim**
 8. Provincial share of divisible pool rose from 47.5% to 57.5%
 9. Sindh's, KP's, and Balochistan's general (not specific-numbers) demands as stated
 10. 18th Amendment's Article 160(3A) non-reduction guarantee
