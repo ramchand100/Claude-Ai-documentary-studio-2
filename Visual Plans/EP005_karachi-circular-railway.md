@@ -4,7 +4,11 @@
 
 **Timestamps are estimates**, calculated from narration word count at ~140 words/minute (a conservative, clear-explainer pace), plus a ~2 second transition buffer between sections. They will not match the real recording exactly — once you record the voiceover, re-sync each shot's start point in CapCut against the actual waveform on the timeline before finalizing. Treat the numbers here as a planning guide for how much footage/how many assets to prepare, not a locked edit.
 
-**Estimated total runtime:** ~10:25 raw narration + transition buffers, + ~20% for visual holds and breathing room between beats ≈ **~12.5 minutes**. This matches the script's own runtime self-check (~12.3 min) closely — the small difference is just the added transition buffers here. Within the outline's 12-16 minute target range.
+**Estimated total runtime:** ~10:25 raw narration + transition buffers, + ~20% for visual holds and breathing room between beats ≈ **~12.5 minutes**. Matches the script's own runtime self-check (~12.3 min) closely.
+
+**Simplified for a first-time editor (revised after your feedback):** the original draft of this plan had 39 individual shots — too many distinct decisions for a first edit. This version cuts that to **21 shots** by combining adjacent small beats into fewer, longer holds. The three most visually distinctive ideas — the reusable route map, the JICA-vs-Sindh split-screen (echoed later for the ADB deal), and the 100-rupee-style stat graphic — are kept, since they're doing real storytelling work and are worth the extra effort. Everything else favors "hold a clip longer and let two sentences of narration play over it" rather than cutting to something new for every sentence.
+
+**A note on pacing before you start:** you do not need to hit every timestamp exactly. If a shot is running long or short once you're actually cutting, it's fine — narration timing, not the clock, should decide when to cut.
 
 ## Shot list
 
@@ -12,12 +16,10 @@
 
 | # | Timestamp (est.) | Visual/Shot | On-screen text | Music/SFX | Transition → next | CapCut tool |
 |---|---|---|---|---|---|---|
-| 1 | 00:00–00:11 | Open on a bold breaking-news-style graphic — Karachi skyline or aerial stock shot behind a headline card | "MAY 2026: $1 BILLION COMMITTED" | Mysterious/curious sting, sharp whoosh SFX on text entry | Hard cut | Text tool + Zoom keyframe on the dollar figure; Stickers tab → search "breaking news" for a banner graphic if available |
-| 2 | 00:11–00:21 | Cut to archival-style/faded KCR train footage or photos (old train, old station) | (none — let the visual breathe) | Music softens, becomes wistful | Fade transition | Filters tab → Vintage/Retro filter on the B-roll clip |
-| 3 | 00:21–00:37 | Fast-cut montage: a number counter animating up with quick date-stamp flashes (2003, 2009, 2017, 2021...) | Counter: "14 Broken Promises" | Music builds tempo, tick/counter SFX on each number | Jump cuts between date flashes, then whoosh into next shot | Text tool with keyframed number animation (manually keyframe the digits), Speed Ramp for quick cuts |
-| 4 | 00:37–00:47 | Hold on black screen with bold centered text | "Is this time different?" | Music drops to near-silence, one low tension note | Fade to black, hold half a second | Text tool → Text Animation → "Typewriter" or "Fade In" |
+| 1 | 00:00–00:21 | Open on a bold headline card (Karachi skyline/aerial behind it), hold, then fade into archival-style/faded old train footage or photos | "MAY 2026: $1 BILLION COMMITTED" | Mysterious/curious sting on entry, music softens into wistful tone as the old-train footage appears | Fade transition | Text tool + Zoom keyframe for the headline card; Filters tab → Vintage/Retro filter on the old-train B-roll |
+| 2 | 00:21–00:47 | Fast-cut montage of date-stamp flashes (2003, 2009, 2017, 2021...), landing on a black screen with bold centered text | Counter: "14 Broken Promises," then "Is this time different?" | Music builds tempo through the montage with a tick SFX per date, then drops to near-silence for the final question card | Fade to black, hold briefly, whoosh into Section 1 | Text tool with keyframed number/date animation, Speed Ramp for the quick cuts; Text Animation → "Typewriter" for the final question |
 
-**Section notes:** The date-flash montage (shot 3) is the hook's strongest visual idea — if archival photos for each specific year aren't available, generic "old newspaper clipping" or "government announcement" stock graphics with the date overlaid work as a fallback; don't hold out for year-specific photos.
+**Section notes:** If year-specific archival photos for the date montage aren't available, generic "old newspaper clipping" or "government announcement" stock graphics with the date overlaid work fine as a fallback.
 
 ---
 
@@ -25,15 +27,12 @@
 
 | # | Timestamp (est.) | Visual/Shot | On-screen text | Music/SFX | Transition → next | CapCut tool |
 |---|---|---|---|---|---|---|
-| 1 | 00:49–00:57 | Wide shot of present-day Karachi traffic/street level, then slow push-in | (none) | Music shifts to warm/nostalgic | Cross dissolve | Effects tab → Zoom In (slow push-in keyframe) |
-| 2 | 00:57–01:14 | A simple custom map/route graphic: Karachi outline with the 43km loop drawn on it, 24 station dots appearing one by one or as a group | "1964 · 43 km loop · 24 stations" | Music continues warm/building | Wipe transition | Text + Shapes tool to draw the route line over a static Karachi map image (CapCut has no native map tool — build this as a static overlay); Sticker/dot icons for stations |
-| 3 | 01:14–01:23 | Archival-style train footage (crowded platform or moving train), stat card overlay | "104 trains/day · 6 million riders/year" | Music holds warm | Hard cut | Text tool + card background (Elements tab → simple rectangle/card shape) |
-| 4 | 01:23–01:42 | Generic commuter B-roll (a person walking to/boarding a train) — must NOT look like a specific named individual | Small label, lower-third: "Illustrative example" | Music stays gentle/personal | Cross dissolve | Text tool, small lower-third position, low opacity — keep this label visible for the full illustrative-anchor beat, not just a flash |
-| 5 | 01:42–02:01 | Montage: deteriorating train exterior, empty platform, a bus/van driving past (implying the road-transport shift) | (none) | Music turns slightly melancholic, minor key shift | Slow fade | Filters tab → slightly desaturated look to signal decline |
-| 6 | 02:01–02:11 | Date-stamp card | "December 1999: Service Suspended" | Music dips, single low sting | Fade to black briefly | Text tool, bold centered date card |
-| 7 | 02:11–02:31 | Return to present-day Karachi (echo of shot 1) | (none) | Music tempo picks up slightly, curious tone returns | Whoosh into Section 2 | Effects tab → Whoosh transition |
+| 1 | 00:49–01:14 | Present-day Karachi street/traffic shot, slow push-in, then wipe into the route-map graphic (Karachi outline + the 43km loop drawn on it, 24 station dots) | "1964 · 43 km loop · 24 stations" | Music shifts warm/nostalgic | Wipe transition | Effects tab → slow Zoom In on the opening shot; build the map once with Text + Shapes tool over a static Karachi map image — you'll reuse this same graphic file later, so save it |
+| 2 | 01:14–01:42 | Archival-style train footage (crowded platform/moving train) holding under a stat card, then cut to generic commuter B-roll (a person walking to/boarding a train — must not look like a specific named individual) | "104 trains/day · 6 million riders/year," then a small lower-third: "Illustrative example" | Music stays warm | Cross dissolve | Text tool + card background (Elements tab); keep the "Illustrative example" label visible the whole time this commuter is on screen, not just a flash |
+| 3 | 01:42–02:11 | Montage: deteriorating train exterior, empty platform, a bus/van driving past, landing on a date card | "December 1999: Service Suspended" | Music turns melancholic (minor key), dips to a low sting on the date card | Fade to black briefly | Filters tab → slightly desaturated look on the decline footage; Text tool for the date card |
+| 4 | 02:11–02:31 | Return to present-day Karachi (echo of shot 1's opening) | (none) | Music tempo picks back up, curious tone returns | Whoosh into Section 2 | Effects tab → Whoosh transition |
 
-**Section notes:** Shot 4's "Illustrative example" label is not optional — the script itself flags this commuter as explicitly not a real, sourced person, and the visual needs to carry that same honesty rather than implying real footage of a real rider.
+**Section notes:** Shot 2's "Illustrative example" label is not optional — the script flags this commuter as explicitly not a real, sourced person, and the visual needs to carry that honesty too.
 
 ---
 
@@ -41,37 +40,28 @@
 
 | # | Timestamp (est.) | Visual/Shot | On-screen text | Music/SFX | Transition → next | CapCut tool |
 |---|---|---|---|---|---|---|
-| 1 | 02:33–02:48 | Photo/stock image evoking mid-2000s Pakistan government (podium, generic official setting) + date card | "2005: Rs3.5 Billion Pledged" | Music turns tense/building | Quick cut | Text tool, date+figure card |
-| 2 | 02:48–03:00 | Same shot fades to "closed/shuttered" visual (a closed gate, faded signage) | "Collapsed within a year" | Sting SFX (short failure cue) | Hard cut | Elements tab → simple X or fade overlay |
-| 3 | 03:00–03:12 | JICA/Japan-associated neutral graphic (flag icon + generic office/negotiation stock B-roll) | "2009: JICA study begins" | Music holds tense-curious | Cross dissolve | Text tool, icon from Stickers tab |
-| 4 | 03:12–03:29 | Cut to the route map graphic again (reuse from Section 1), this time with red dots/highlights showing encroachment clusters along the route | "4,000+ homes · 600+ shops on the route" | Music tension rises slightly | Wipe | Reuse the Section 1 map graphic file, add red highlight dots via Text + Shapes |
-| 5 | 03:29–03:48 | Split-screen: JICA icon/side on left, Sindh government icon/side on right, each with a short label | Left: "Wants encroachments cleared first" / Right: "Wants funding locked in first" | Music holds tense, a "standoff" low drone | Hold on split screen, then hard cut | Layout/Split-screen feature in CapCut (drag two clips into a split template), Text tool for each side's label |
-| 6 | 03:48–04:04 | Fade the split-screen to a single "withdrawn" graphic (a hand pulling back, or a crossed-out flag icon) | "2016: JICA Withdraws" | Music dips, tension unresolved note | Whoosh into Section 3 | Text tool + fade |
+| 1 | 02:33–03:00 | Generic government-official stock B-roll with a date card, fading to a "closed/shuttered" visual (a closed gate, faded signage) | "2005: Rs3.5 Billion Pledged," then "Collapsed within a year" | Music turns tense/building, short failure-sting SFX on the second card | Hard cut | Text tool, date+figure card, then a fade overlay for the "closed" beat |
+| 2 | 03:00–03:29 | JICA/Japan-associated neutral graphic (flag icon + generic negotiation B-roll), then wipe into the route-map graphic again — this time with red highlight dots marking encroachment clusters along the route | "2009: JICA study begins," then "4,000+ homes · 600+ shops on the route" | Music holds tense-curious, tension rises slightly on the map reveal | Wipe | Reuse the Section 1 map graphic file, add red highlight dots via Text + Shapes |
+| 3 | 03:29–04:04 | **Keep this one — it's the episode's key visual.** Split-screen: JICA/side on left, Sindh government/side on right, each labeled; hold, then fade the whole split-screen into a single "withdrawn" graphic | Left: "Wants encroachments cleared first" / Right: "Wants funding locked in first" — then "2016: JICA Withdraws" | Music holds tense with a low "standoff" drone, dipping to an unresolved note as it fades | Whoosh into Section 3 | Layout/Split-screen feature (drag two clips into a split template), Text tool for each label; fade the whole split-screen out at the end |
 
-**Section notes:** The split-screen (shot 5) is the key visual for the whole episode's mechanism — worth spending a little extra time getting this one clean, since it's the beat that explains *why* revival keeps failing, not just *that* it fails.
+**Section notes:** Shot 3 is worth the extra setup time — it's the beat that explains *why* revival keeps failing, not just *that* it fails, and you'll reuse this same split-screen layout again in Section 4.
 
 ---
 
 ### Section 3 — The Cycle Repeats — narration: 470 words (~201s at 140wpm)
 
-This is the longest, densest section — pace the cuts a little faster than earlier sections to match the narration's own compressed pacing, but slow down specifically for shot 8 (the 14km reopening), which is the episode's one genuine good-news beat and deserves a breath.
+Still the longest section, but now built from 6 longer holds instead of 12 short cuts — each one covers about 2-3 sentences of narration, so you have more time per shot than the word count alone suggests.
 
 | # | Timestamp (est.) | Visual/Shot | On-screen text | Music/SFX | Transition → next | CapCut tool |
 |---|---|---|---|---|---|---|
-| 1 | 04:06–04:20 | China/CPEC-associated neutral graphic (flag icons, generic infrastructure stock B-roll) | "Dec 2016: Added to CPEC" | Music restarts tense-building arc | Quick cut | Text tool, icon overlay |
-| 2 | 04:20–04:38 | Animated bar or number counting up quickly from a small figure to a much larger one | "Rs27.6 billion → Rs207.5 billion (in one year)" | Rising whoosh/counter SFX | Hard cut | Text tool with keyframed number animation, or a simple growing-bar shape (Elements tab) |
-| 3 | 04:38–04:54 | Generic government approval stock B-roll (signing, stamp) + date card | "Oct 2017: Approved · China to fund majority · 2020 target" | Music holds steady-tense | Cross dissolve | Text tool, date/stat card |
-| 4 | 04:54–05:10 | Reuse the encroachment map graphic (from Section 2, shot 4) | (none, let map speak) | Music tension rises again | Wipe | Reuse existing asset |
-| 5 | 05:10–05:24 | Courtroom/gavel-style neutral stock graphic (avoid anything resembling a real courtroom photo unless rights-cleared) | "Nov 2018: Supreme Court Orders Clearance" | Sharp gavel-strike SFX | Hard cut | Text tool, stock B-roll |
-| 6 | 05:24–05:44 | Somber montage: demolition-adjacent stock B-roll (generic, not identifiable real footage) + stat card | "~1,200 KCR encroachments cleared · ~4,653 families affected citywide" | Music turns somber/serious | Fade | Text tool, two-line stat card — keep both numbers visible together since they're different scopes (KCR-specific vs. citywide) |
-| 7 | 05:44–05:58 | Return to route map graphic, small segment highlighted in green (City–Orangi) | "Aug 2020: Rs10.5B Partial Package" | Music shifts hopeful, tempo lifts slightly | Cross dissolve | Reuse map asset, green highlight via Shapes tool |
-| 8 | 05:58–06:20 | **Slow down here.** Actual-feeling train footage (best available stock or archival), a moving train shot, held a bit longer than other shots | "Nov 2020: First Train Since 1999" | Music swells briefly — this is the episode's one clear win | Hold 1-2 extra seconds before cutting | Effects tab → gentle Zoom, hold the clip length generously here |
-| 9 | 06:20–06:36 | Full route map graphic again, whole loop highlighted this time, groundbreaking/ceremony stock B-roll | "Sept 2021: Groundbreaking · ~Rs207B · 3-year target" | Music returns to tense-building | Quick cut | Reuse map asset, full-loop highlight |
-| 10 | 06:36–06:52 | Number graphic showing the cost bouncing (270 → 201.572), then a calendar/date flip animation to 2025 | "2022: Cost Revised Again · 2025 Target Set" | Music tension holds | Hard cut | Text tool number animation; Stickers tab → calendar/flip icon if available |
-| 11 | 06:52–07:06 | Neutral negotiation stock B-roll (generic office/handshake, not identifiable individuals) | "2023: More Talks, No New Construction" | Music tension flat/stagnant, no build | Cross dissolve | Text tool, date card |
-| 12 | 07:06–07:27 | Calendar/date flip past "2025" with a red "X" or fade, then hold on a quote card | Quote: *"A decade without progress under CPEC" — Dawn, Feb 2026* | Music dips low, unresolved tone | Whoosh into Section 4 | Text tool, quote-card styling (attribute the publication clearly on screen, matching the script's own attribution) |
+| 1 | 04:06–04:38 | China/CPEC-associated neutral graphic (flag icons, generic infrastructure B-roll), then a number animating up from a small figure to a much larger one | "Dec 2016: Added to CPEC," then "Rs27.6 billion → Rs207.5 billion (in one year)" | Music restarts the tense-building arc, rising whoosh/counter SFX on the number jump | Hard cut | Text tool, icon overlay, then keyframed number animation (or a simple growing-bar shape, Elements tab) |
+| 2 | 04:38–05:10 | Generic government approval B-roll (signing, stamp) with a date card, then wipe back into the route-map graphic (reuse the encroachment-highlighted version from Section 2) | "Oct 2017: Approved · China to fund majority · 2020 target" | Music holds steady-tense, rising again as the map returns | Wipe | Text tool for the card; reuse the existing map asset — no rebuilding needed |
+| 3 | 05:10–05:44 | Courtroom/gavel-style neutral stock graphic, then a somber montage (generic demolition-adjacent B-roll, not identifiable real footage) with a stat card | "Nov 2018: Supreme Court Orders Clearance," then "~1,200 KCR encroachments cleared · ~4,653 families affected citywide" | Sharp gavel SFX, then music turns somber/serious | Fade | Text tool for both cards — keep both numbers visible together since they're different scopes (KCR-specific vs. citywide) |
+| 4 | 05:44–06:20 | **Slow down here — the episode's one clear win.** Route-map graphic with the City–Orangi segment highlighted green, then hold on real-feeling train footage (best available stock or archival), held a bit longer than other shots | "Aug 2020: Rs10.5B Partial Package," then "Nov 2020: First Train Since 1999" | Music shifts hopeful, tempo lifts, swells briefly on the train footage | Cross dissolve, hold 1-2 extra seconds before cutting away | Reuse map asset with a green highlight (Shapes tool); Effects tab → gentle Zoom, hold the clip generously |
+| 5 | 06:20–06:52 | Full route-map graphic (whole loop highlighted this time) with groundbreaking/ceremony B-roll, then a number graphic showing the cost bouncing (270 → 201.572) into a calendar flip to 2025 | "Sept 2021: Groundbreaking · ~Rs207B · 3-year target," then "2022: Cost Revised Again · 2025 Target Set" | Music returns to tense-building | Hard cut | Reuse map asset, full-loop highlight; Text tool number animation, calendar/flip icon from Stickers tab if available |
+| 6 | 06:52–07:27 | Neutral negotiation B-roll, then a calendar/date flip past "2025" with a fade, landing on a quote card | "2023: More Talks, No New Construction," then quote: *"A decade without progress under CPEC" — Dawn, Feb 2026* | Music stays flat/stagnant through the talks beat, dips low for the quote | Whoosh into Section 4 | Text tool, date card, then quote-card styling (attribute the publication clearly, matching the script) |
 
-**Section notes:** Reusing the same route-map graphic asset across shots 4, 7, 9 (just re-highlighted each time) saves real editing time for a beginner and also visually reinforces "same map, same problem, different year" — don't rebuild this graphic from scratch each time. Shot 6's demolition B-roll should be generic/non-identifiable stock, not footage implying real, specific displaced families, since the research couldn't source their individual stories.
+**Section notes:** The route-map graphic gets reused three times in this section alone (shots 2, 4, 5) — build it once in Section 1, save the file, and just re-highlight it each time. This is both less work and reinforces "same map, same problem, different year." Shot 3's demolition B-roll should stay generic/non-identifiable, since no real, specific displaced-family footage was sourced.
 
 ---
 
@@ -79,12 +69,10 @@ This is the longest, densest section — pace the cuts a little faster than earl
 
 | # | Timestamp (est.) | Visual/Shot | On-screen text | Music/SFX | Transition → next | CapCut tool |
 |---|---|---|---|---|---|---|
-| 1 | 07:29–07:44 | Return to the exact hook graphic from 00:00 (the "$1 BILLION COMMITTED" card) — a deliberate echo | "MAY 2026: $1 Billion Committed" (same card as the hook) | Music echoes the hook's opening sting | Hard cut | Reuse the hook's exact text card asset for visual continuity |
-| 2 | 07:44–08:05 | A simple progress-bar graphic: a long bar mostly empty, a tiny sliver filled in | "$10 million released so far — for planning only" | Music turns thoughtful/uncertain | Cross dissolve | Elements tab → rectangle/progress-bar shape, keyframe the fill from 0 to a small sliver |
-| 3 | 08:05–08:20 | Split-screen echo of Section 2's standoff graphic, now both sides faded/grayed, question mark between them | "Will this time be different?" | Music holds suspended, no resolution chord | Hold | Reuse the split-screen layout, adjust opacity, add a "?" text element in the center gap |
-| 4 | 08:20–09:00 | Present-day Karachi street-level B-roll, slow push-in | (none) | Music transitions toward the closing section's more grounded tone | Slow fade into Section 5 | Effects tab → slow Zoom In |
+| 1 | 07:29–08:05 | Return to the exact hook graphic from 00:00 (a deliberate echo), then wipe into a progress-bar graphic (a long bar mostly empty, a tiny sliver filled) | "MAY 2026: $1 Billion Committed" (same card as the hook), then "$10 million released so far — for planning only" | Music echoes the hook's opening sting, then turns thoughtful/uncertain | Cross dissolve | Reuse the hook's exact text card asset; Elements tab → rectangle/progress-bar shape, keyframe the fill from 0 to a small sliver |
+| 2 | 08:05–09:00 | **Keep this one too — echoes Section 2's split-screen.** The same split-screen layout, now both sides faded/grayed with a "?" in the center gap, then hold, then fade into present-day Karachi street-level B-roll with a slow push-in | "Will this time be different?" | Music holds suspended, no resolution chord, transitioning toward the closing section's more grounded tone | Slow fade into Section 5 | Reuse the Section 2 split-screen layout, adjust opacity, add a "?" text element; Effects tab → slow Zoom In for the closing B-roll |
 
-**Section notes:** Reusing the hook's exact graphic in shot 1 is a deliberate callback — worth making sure it's pixel-identical to the opening so the "wait, we're back here" effect actually lands.
+**Section notes:** Shot 1's callback only works if the graphic is pixel-identical to the hook's opening card — reuse the actual saved asset rather than rebuilding it.
 
 ---
 
@@ -92,13 +80,11 @@ This is the longest, densest section — pace the cuts a little faster than earl
 
 | # | Timestamp (est.) | Visual/Shot | On-screen text | Music/SFX | Transition → next | CapCut tool |
 |---|---|---|---|---|---|---|
-| 1 | 09:00–09:12 | Wide aerial or street-level shot of dense Karachi traffic | "20+ million people" | Music serious/grounded | Quick cut | Text tool, stat overlay |
-| 2 | 09:12–09:22 | Traffic jam B-roll, cars bumper to bumper | "4.1 million vehicles" | Music holds | Hard cut | Text tool, stat overlay |
-| 3 | 09:22–09:42 | A simple 100-rupee-note-style graphic or a 100-square grid, with ~1.5 squares/units highlighted | "Rs200 billion lost to traffic every year — about 1.5 of every 100 rupees Pakistan earns" | Music underscore holds serious | Cross dissolve | Elements tab → grid/shape graphic, highlight ~1.5% of the grid in a different color |
-| 4 | 09:42–10:00 | Cut back to the illustrative-commuter B-roll from Section 1 (reuse footage), now showing them stuck in traffic instead of on a train | Small lower-third label again: "Illustrative example" | Music becomes more personal/reflective | Fade | Reuse Section 1's commuter asset, keep the same "Illustrative example" label for consistency |
-| 5 | 10:00–10:09 | Final wide shot of Karachi, hold | (none — let the closing line land without visual clutter) | Music settles toward the sign-off's tone | Fade to black | Effects tab → simple fade out |
+| 1 | 09:00–09:22 | Wide aerial/street-level Karachi traffic shot, holding under two stat cards in sequence | "20+ million people," then "4.1 million vehicles" | Music serious/grounded | Hard cut | Text tool, stat overlays |
+| 2 | 09:22–09:42 | **Keep this one — the 100-rupee-style graphic.** A simple 100-square grid with ~1.5 units highlighted in a different color | "Rs200 billion lost to traffic every year — about 1.5 of every 100 rupees Pakistan earns" | Music underscore holds serious | Cross dissolve | Elements tab → grid/shape graphic, highlight ~1.5% of the grid in a different color |
+| 3 | 09:42–10:09 | Cut back to the same illustrative-commuter B-roll from Section 1 (reuse the footage), now showing them stuck in traffic instead of on a train, then hold on a final wide Karachi shot | Small lower-third label again: "Illustrative example" | Music becomes personal/reflective, settling toward the sign-off's tone | Fade to black | Reuse Section 1's commuter asset, keep the same label; Effects tab → simple fade out on the final shot |
 
-**Section notes:** Shot 4's callback to the same illustrative commuter (now in traffic instead of on the train) is the payoff of the running anchor established in Section 1 — keep it visually recognizable as "the same person" (same actor/stock clip style) so the callback actually reads.
+**Section notes:** Shot 3's callback only reads if it's visually recognizable as "the same person" as Section 1 — reuse the same stock clip/actor rather than a different one.
 
 ---
 
@@ -113,15 +99,16 @@ This is the longest, densest section — pace the cuts a little faster than earl
 ## Music bed plan
 
 - **Overall mood arc:** Curious/mysterious (hook) → warm/nostalgic (what was lost) → tense, building frustration (the two failure cycles) → suspended/uncertain (return to present) → serious/grounded (closing stakes) → warm outro (sign-off).
-- **Where to find it in CapCut:** Audio tab → Sounds (CapCut's royalty-free library) → search by mood keyword rather than track name, since the catalog rotates. Suggested keyword searches in order: "mystery" or "curious" (hook) → "emotional" or "nostalgic" (Section 1) → "tense" or "drama" (Sections 2-3) → "ambient" or "cinematic" (Section 4) → "documentary" or "serious" (Section 5) → "uplifting" or "corporate" (sign-off). A single continuous "documentary/tense-building" track that gradually shifts mood via volume/tempo automation is simpler for a beginner than stitching 6 separate tracks — consider that as the easier default, with the mood-keyword search above as the more layered optional approach.
-- **Volume automation notes:** Duck music under all narration using CapCut's auto-ducking (Audio tab → select track → Auto Ducking) rather than manual keyframing — simpler for a beginner and consistent across the whole episode. Manually raise volume briefly during the transition beats (hook's date-counter montage, the split-screen standoff reveals) where music carries more of the emotional weight.
+- **Simplest approach for a first edit:** pick ONE continuous "documentary/tense-building" track from CapCut's Sounds library (Audio tab → Sounds → search "documentary" or "cinematic") and just adjust its volume up/down at the mood shifts above, rather than finding and stitching 6 separate tracks. You can layer in mood-specific tracks later once you're comfortable — this single-track approach is enough for a first pass.
+- **Volume automation:** Duck music under all narration using CapCut's Auto Ducking (Audio tab → select track → Auto Ducking) — simpler than manual keyframing.
 
 ## Asset checklist
 
-- [ ] All charts sourced with data reference — this plan reuses one route-map graphic (built once, re-highlighted per shot) and one progress-bar/grid graphic; build these first since they're reused multiple times
-- [ ] All archive footage rights-checked or fair-use justified — **flag:** genuine archival KCR footage (1960s-90s) may be difficult to license; fallback specified throughout is generic/stock train and station B-roll with text overlays doing the specific work, rather than depending on year-accurate archival footage
-- [ ] Demolition/anti-encroachment B-roll (Section 3, shot 6) must be generic stock, not footage implying real, identifiable displaced families — no such footage was sourced in research and none should be implied
-- [ ] Maps accurate to current Karachi boundaries/names — the route-map graphic should be checked against a current map before use, not assumed from memory
+- [ ] Build the route-map graphic once (Section 1, shot 1) — you'll reuse it 4 more times, so get this one right first
+- [ ] Build the split-screen standoff graphic once (Section 2, shot 3) — reused in Section 4
+- [ ] All archive footage rights-checked or fair-use justified — **flag:** genuine archival KCR footage (1960s-90s) may be hard to license; generic/stock train and station B-roll with text overlays is the specified fallback throughout
+- [ ] Demolition/anti-encroachment B-roll (Section 3, shot 3) stays generic stock, not footage implying real, identifiable displaced families
+- [ ] Maps accurate to current Karachi boundaries/names
 - [ ] All timestamps re-synced against the real recorded narration before final export
-- [ ] Music bed licensed/royalty-free (CapCut's built-in Sounds library is safe; anything pulled from outside it needs its own rights check)
-- [ ] Confirm the "Illustrative example" label (Sections 1 and 5) is legible and doesn't get cut for time — it's carrying an honesty commitment made in the script itself, not just a nice-to-have
+- [ ] Music bed licensed/royalty-free (CapCut's built-in Sounds library is safe)
+- [ ] Confirm the "Illustrative example" label (Sections 1 and 5) stays legible and isn't cut for time
